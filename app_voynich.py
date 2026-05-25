@@ -211,5 +211,53 @@ if os.path.exists("glifos_extraidos"):
 
 else:
     st.warning("No existe carpeta glifos_extraidos")
+# -----------------------------
+# MAPA DE EMBEDDINGS 2D
+# -----------------------------
 
+st.header("🧭 Mapa semántico 2D EVA vs Corpus Medieval")
+
+if os.path.exists("mapa_embeddings_2d.png"):
+    img_embed = Image.open("mapa_embeddings_2d.png")
+    st.image(
+        img_embed,
+        caption="Mapa PCA 2D de embeddings semánticos",
+        use_container_width=True
+    )
+else:
+    st.warning("No se encontró mapa_embeddings_2d.png")
+
+if os.path.exists("mapa_embeddings_2d.csv"):
+    df_embed = pd.read_csv("mapa_embeddings_2d.csv")
+    st.dataframe(df_embed, use_container_width=True)
+else:
+    st.warning("No se encontró mapa_embeddings_2d.csv")
+    # -----------------------------
+# CLUSTERS SEMÁNTICOS AUTOMÁTICOS
+# -----------------------------
+
+st.header("🧬 Clusters semánticos automáticos")
+
+if os.path.exists("resumen_clusters_semanticos.csv"):
+
+    df_clusters_resumen = pd.read_csv("resumen_clusters_semanticos.csv")
+
+    st.subheader("Resumen de clusters")
+    st.dataframe(df_clusters_resumen, use_container_width=True)
+
+else:
+    st.warning("No se encontró resumen_clusters_semanticos.csv")
+
+
+if os.path.exists("clusters_semanticos_automaticos.csv"):
+
+    df_clusters = pd.read_csv("clusters_semanticos_automaticos.csv")
+
+    st.subheader("Detalle de glifos/EVA por cluster")
+    st.dataframe(df_clusters, use_container_width=True)
+
+    st.bar_chart(df_clusters["cluster_semantico"].value_counts())
+
+else:
+    st.warning("No se encontró clusters_semanticos_automaticos.csv")
 st.success("Sistema Voynich cargado correctamente.")

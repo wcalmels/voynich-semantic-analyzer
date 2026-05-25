@@ -1,0 +1,105 @@
+INFORME DE COMPARACIÓN EVA VS CORPUS MÉDICO MEDIEVAL
+======================================================================
+Marco: comparación experimental entre familias EVA y corpus medieval contextual.
+Nota: no constituye prueba definitiva de traducción; es evidencia exploratoria.
+======================================================================
+
+1. RANKING DE SIMILITUD CONTEXTUAL
+----------------------------------------------------------------------
+Título: Seljuk Women's Medicine Fragment
+Fecha: 1230
+Idioma: Turco medieval
+Región: Anatolia
+Tema: medicina femenina
+Score de coincidencia: 3
+Coincidencias: calor, ciclo, medicina
+Keywords: luna ciclo cuerpo calor hierbas medicina femenina
+
+Título: Persian Medical Treatise
+Fecha: 1240
+Idioma: Persa médico
+Región: Persia / Anatolia
+Tema: medicina femenina
+Score de coincidencia: 3
+Coincidencias: calor, dolor, medicina
+Keywords: dolor calor hierbas medicina
+
+Título: Seljuk Herbal Preparation Fragment
+Fecha: 1235
+Idioma: Turco medieval
+Región: Anatolia
+Tema: preparacion herbal
+Score de coincidencia: 2
+Coincidencias: medicina, mezcla
+Keywords: hierba hervir agua mezcla preparacion medicina
+
+Título: Persian Gynecological Note
+Fecha: 1245
+Idioma: Persa médico
+Región: Persia / Anatolia
+Tema: ginecologia medieval
+Score de coincidencia: 2
+Coincidencias: ciclo, dolor
+Keywords: dolor ciclo hierba agua tratamiento ginecologia
+
+Título: Astrological Healing Notes
+Fecha: 1250
+Idioma: Árabe médico
+Región: Anatolia
+Tema: astrología médica
+Score de coincidencia: 2
+Coincidencias: medicina, sol
+Keywords: sol cuerpo astrologia medicina
+
+Título: Divrigi Darussifa Hydrotherapy Fragment
+Fecha: 1228
+Idioma: Turco medieval / Persa médico
+Región: Anatolia Seljúcida
+Tema: hidroterapia médica
+Score de coincidencia: 2
+Coincidencias: dolor, medicina
+Keywords: agua cuerpo purificacion dolor hidroterapia medicina
+
+Título: Astrological Medicine Lunar Fragment
+Fecha: 1250
+Idioma: Árabe médico / Persa
+Región: Anatolia
+Tema: astrologia medica
+Score de coincidencia: 2
+Coincidencias: medicina, sol
+Keywords: luna sol cuerpo paciente astrologia medicina
+
+Título: Medieval Tincture Preparation
+Fecha: 1260
+Idioma: Persa médico / Turco medieval
+Región: Anatolia
+Tema: farmacopea
+Score de coincidencia: 2
+Coincidencias: medicina, tintura
+Keywords: tintura medicina agua hierbas preparacion
+
+Título: Seljuk Herbal Fragment
+Fecha: 1235
+Idioma: Turco medieval
+Región: Anatolia
+Tema: botánica médica
+Score de coincidencia: 1
+Coincidencias: medicina
+Keywords: hierba hervir medicina paciente
+
+Título: Divrigi Darussifa Notes
+Fecha: 1228
+Idioma: Turco medieval / Persa médico
+Región: Anatolia Seljúcida
+Tema: hidroterapia
+Score de coincidencia: 0
+Coincidencias: nan
+Keywords: agua hidroterapia equilibrio cuerpo
+
+2. INTERPRETACIÓN
+----------------------------------------------------------------------
+Los mayores puntajes aparecen en fragmentos asociados a medicina femenina, dolor, calor, preparación herbal, ginecología y astrología médica. Esto es compatible con una hipótesis contextual médico-botánica, aunque todavía requiere ampliación del corpus y validación estadística formal.
+
+La aparición recurrente de términos como ciclo, calor, dolor, medicina, hierbas, agua, sol y luna sugiere que las familias EVA experimentales podrían estar capturando dominios semánticos próximos a un corpus médico medieval anatolio/persa.
+
+El resultado más prometedor no debe interpretarse como traducción directa, sino como alineamiento semántico contextual entre estructuras EVA y un marco médico medieval restringido.

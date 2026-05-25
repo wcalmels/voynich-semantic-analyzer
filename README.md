@@ -1,112 +1,234 @@
 # 🔓 Voynich Semantic Analyzer
 
-Sistema experimental de análisis semántico del Manuscrito Voynich utilizando:
+# Voynich Semantic Analyzer
+## A Computational Semantic Framework for Exploratory Voynich Manuscript Analysis
 
-- EVA transcription
-- análisis contextual
-- clustering de glifos
-- extracción visual
-- familias léxicas
-- interpretación médica experimental
-- visualización web interactiva
+### Walter Calmels Von dem Knesebeck
+Independent Researcher  
+Santiago, Chile  
+wcalmels@phi47.cl
 
 ---
 
-# 📜 Objetivo
+# Overview
 
-Este proyecto busca explorar estructuras lingüísticas y semánticas del:
+Voynich Semantic Analyzer is an experimental computational framework for contextual semantic exploration of the Voynich Manuscript using:
 
-Voynich Manuscript
+- EVA processing
+- semantic embeddings
+- transformer models
+- semantic clustering
+- medieval corpus comparison
+- NLP pipelines
+- contextual visualization
 
-mediante:
+The framework integrates:
 
-- análisis estadístico
-- agrupación de glifos
-- procesamiento EVA
-- contexto botánico/médico
-- hipótesis túrquica/persa medieval
-- análisis computacional experimental
-
----
-
-# 🧠 Funcionalidades
-
-## ✔ Extracción de glifos
-
-- OCR experimental
-- segmentación de símbolos
-- exportación PNG
-
-## ✔ Clustering visual
-
-- agrupación automática de glifos
-- similitud estructural
-
-## ✔ Traducción EVA experimental
-
-- análisis de transcripciones EVA
-- traducción contextual tentativa
-
-## ✔ Mapa semántico EVA
-
-Familias detectadas:
-
-| Familia | Interpretación probable |
-|---|---|
-| qok | líquidos / raíz / medicina |
-| yka | preparación / hervido |
-| sho | calor / dolor / sol |
-| pch | corte / mezcla |
-| dai | ciclo / repetición |
-| ata | tintura / preparación |
-| qot | apertura / canalización |
-
-## ✔ Plataforma web interactiva
-
-Construida con:
-
-- Streamlit
-- Pandas
-- OpenCV
-- PIL
-
-Incluye:
-
-- visualización de folios
-- traducción experimental
-- buscador EVA
-- filtros semánticos
-- descarga CSV
-- glifos visuales
-- informe contextual
+- computer vision
+- computational linguistics
+- digital humanities
+- semantic embeddings
+- medieval medical corpora
+- unsupervised clustering
 
 ---
 
-# 📂 Estructura del proyecto
+# Scientific Disclaimer
+
+This project does NOT claim definitive decipherment of the Voynich Manuscript.
+
+The framework is intended as:
+
+- exploratory computational research
+- semantic-contextual analysis
+- experimental NLP methodology
+- digital humanities infrastructure
+
+All semantic interpretations remain hypothetical and computationally inferred.
+
+---
+
+# Core Pipeline
 
 ```text
-voynich_project/
-│
-├── app_voynich.py
-├── buscador_eva.py
-├── clustering_glifos.py
-├── detectar_glifos.py
-├── extraer_glifos.py
-├── generar_csv_completo.py
-├── informe_semantico_voynich.py
-├── limpiar_mapa_semantico.py
-├── mapa_semantico_eva.py
-├── ocr_voynich.py
-├── traducir_csv_eva.py
-├── traducir_voynich.py
-├── visualizar_clusters.py
-│
-├── voynich_folio.jpg
-├── voynich_texto_completo.csv
-├── voynich_texto_traducido.csv
-├── mapa_semantico_eva_limpio.csv
-├── informe_semantico_voynich.txt
-│
-├── glifos_extraidos/
-│
-└── requirements.txt
+Voynich Folios
+        ↓
+Glyph Extraction
+        ↓
+OCR / Segmentation
+        ↓
+EVA Processing
+        ↓
+Semantic Families
+        ↓
+Transformer Embeddings
+        ↓
+Semantic Clustering
+        ↓
+Medieval Corpus Comparison
+        ↓
+Contextual Similarity Analysis
+```
+
+---
+
+# Features
+
+## EVA Processing
+
+- tokenization
+- bigram analysis
+- semantic families
+- lexical analysis
+
+## NLP & Embeddings
+
+- TF-IDF embeddings
+- sentence-transformers embeddings
+- cosine similarity
+- semantic comparison
+
+## Semantic Clustering
+
+- automatic clustering
+- unsupervised grouping
+- semantic vector analysis
+
+## Visualization
+
+- PCA semantic maps
+- 2D embeddings visualization
+- semantic cluster display
+
+## Medieval Corpus
+
+- Anatolian-Seljuk corpus
+- Persian medical fragments
+- hydrotherapy
+- herbal preparation
+- astrological medicine
+
+## Interactive Platform
+
+Built using:
+
+- Python
+- Streamlit
+- OpenCV
+- Pandas
+- Scikit-learn
+- Sentence Transformers
+
+---
+
+# Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/wcalmels/voynich-semantic-analyzer.git
+cd voynich-semantic-analyzer
+```
+
+## Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+## Activate Environment
+
+### Windows
+
+```bash
+.\venv\Scripts\Activate.ps1
+```
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# Run Platform
+
+```bash
+streamlit run app_voynich.py
+```
+
+Open:
+
+```text
+http://localhost:8501
+```
+
+---
+
+# Experimental Results
+
+Current transformer embedding analysis suggests stronger contextual convergence between EVA-derived semantic structures and:
+
+- herbal medicine
+- hydrotherapy
+- medicinal preparation
+- bodily processes
+- medieval gynecology
+- astrological medicine
+
+---
+
+# Scientific Position
+
+The framework should be interpreted as:
+
+- computational semantic exploration
+- contextual clustering methodology
+- medieval semantic infrastructure prototype
+- experimental NLP system
+
+and NOT as:
+
+- definitive translation
+- proven decipherment
+- historically verified linguistic decoding
+
+---
+
+# Roadmap
+
+## Stage 1 — Voynich Framework
+
+- [x] EVA processing
+- [x] transformer embeddings
+- [x] semantic clustering
+- [x] PCA visualization
+- [x] Streamlit platform
+- [x] experimental paper
+
+## Stage 2 — Medieval Semantic Corpus Infrastructure
+
+- [ ] large-scale medieval corpus
+- [ ] collaborative uploads
+- [ ] OCR pipelines
+- [ ] multilingual embeddings
+- [ ] semantic search engine
+- [ ] AI corpus agents
+
+---
+
+# License
+
+## Code
+MIT License
+
+## Paper & Research
+CC-BY 4.0
+
+---
+
+# Contact
+
+Walter Calmels Von dem Knesebeck  
+wcalmels@phi47.cl

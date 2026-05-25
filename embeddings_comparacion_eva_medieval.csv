@@ -1,0 +1,11 @@
+titulo,fecha,idioma,region,tema,score_embedding,keywords
+Persian Medical Treatise,1240,Persa médico,Persia / Anatolia,medicina femenina,0.0941,dolor calor hierbas medicina
+Seljuk Women's Medicine Fragment,1230,Turco medieval,Anatolia,medicina femenina,0.0721,luna ciclo cuerpo calor hierbas medicina femenina
+Seljuk Herbal Preparation Fragment,1235,Turco medieval,Anatolia,preparacion herbal,0.0573,hierba hervir agua mezcla preparacion medicina
+Astrological Healing Notes,1250,Árabe médico,Anatolia,astrología médica,0.0502,sol cuerpo astrologia medicina
+Persian Gynecological Note,1245,Persa médico,Persia / Anatolia,ginecologia medieval,0.0471,dolor ciclo hierba agua tratamiento ginecologia
+Divrigi Darussifa Hydrotherapy Fragment,1228,Turco medieval / Persa médico,Anatolia Seljúcida,hidroterapia médica,0.0419,agua cuerpo purificacion dolor hidroterapia medicina
+Medieval Tincture Preparation,1260,Persa médico / Turco medieval,Anatolia,farmacopea,0.0365,tintura medicina agua hierbas preparacion
+Astrological Medicine Lunar Fragment,1250,Árabe médico / Persa,Anatolia,astrologia medica,0.0362,luna sol cuerpo paciente astrologia medicina
+Seljuk Herbal Fragment,1235,Turco medieval,Anatolia,botánica médica,0.0076,hierba hervir medicina paciente
+Divrigi Darussifa Notes,1228,Turco medieval / Persa médico,Anatolia Seljúcida,hidroterapia,0.0,agua hidroterapia equilibrio cuerpo
