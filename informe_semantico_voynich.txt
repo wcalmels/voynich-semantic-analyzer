@@ -1,0 +1,155 @@
+INFORME SEMÁNTICO EXPERIMENTAL - MANUSCRITO VOYNICH
+======================================================================
+Modelo: análisis EVA por familias léxicas, folios, plantas y uso médico.
+Nota: informe experimental, no traducción definitiva.
+======================================================================
+
+1. RESUMEN GENERAL DE FAMILIAS EVA
+----------------------------------------------------------------------
+Familia EVA: yka
+Frecuencia: 7
+Significado probable: preparación / hervido / escaldado
+
+Familia EVA: sho
+Frecuencia: 6
+Significado probable: sol / calor / dolor
+
+Familia EVA: qok
+Frecuencia: 6
+Significado probable: líquidos / raíz / medicina
+
+Familia EVA: pch
+Frecuencia: 5
+Significado probable: corte / raíz / mezcla
+
+Familia EVA: fac
+Frecuencia: 3
+Significado probable: hacer / ejecutar acción
+
+Familia EVA: dai
+Frecuencia: 3
+Significado probable: ciclo / repetición / menstruación
+
+Familia EVA: ata
+Frecuencia: 3
+Significado probable: tintura / preparación
+
+Familia EVA: cth
+Frecuencia: 2
+Significado probable: número / medida / proporción
+
+Familia EVA: qot
+Frecuencia: 2
+Significado probable: perforar / abrir / canalizar
+
+
+2. ANÁLISIS POR FAMILIA
+----------------------------------------------------------------------
+FAMILIA: fac
+Significado probable: hacer / ejecutar acción
+Palabras EVA asociadas: fachys
+Folios asociados: 001R, 004V, 007R
+Plantas asociadas: Borago officinalis, Melissa officinalis, Viola odorata
+Usos médicos asociados:
+ - Analgésico posparto, dolor menstrual
+ - Galactógeno
+ - Vulvovaginitis
+
+FAMILIA: yka
+Significado probable: preparación / hervido / escaldado
+Palabras EVA asociadas: ykal
+Folios asociados: 001R, 002R, 005R, 006R, 007R, 008V, 010R
+Plantas asociadas: Artemisia absinthium, Melissa officinalis, Mentha piperita, Plantago major, Salvia officinalis, Thymus vulgaris, Viola odorata
+Usos médicos asociados:
+ - Analgésico posparto, dolor menstrual
+ - Bronquitis puerperal
+ - Heridas, úlceras
+ - Mastitis puerperal
+ - Náuseas del embarazo
+ - Parásitos intestinales
+ - Vulvovaginitis
+
+FAMILIA: sho
+Significado probable: sol / calor / dolor
+Palabras EVA asociadas: shol
+Folios asociados: 001V, 003R, 004R, 005R, 006V, 009V
+Plantas asociadas: Calendula officinalis, Hypericum perforatum, Lavandula angustifolia, Ruta graveolens, Salvia officinalis, Thymus vulgaris
+Usos médicos asociados:
+ - Bronquitis puerperal
+ - Cefalea tensional menstrual
+ - Cicatrización episiotomía
+ - Depresión postparto
+ - Endometritis
+ - Regulación ciclo menstrual postparto
+
+FAMILIA: cth
+Significado probable: número / medida / proporción
+Palabras EVA asociadas: cthres
+Folios asociados: 001V, 008V
+Plantas asociadas: Mentha piperita, Salvia officinalis
+Usos médicos asociados:
+ - Náuseas del embarazo
+ - Regulación ciclo menstrual postparto
+
+FAMILIA: qok
+Significado probable: líquidos / raíz / medicina
+Palabras EVA asociadas: qokain, qokeedy
+Folios asociados: 002R, 002V, 004V, 006R, 007V, 009R
+Plantas asociadas: Althaea officinalis, Artemisia absinthium, Borago officinalis, Malva sylvestris, Ruta graveolens, Salvia officinalis
+Usos médicos asociados:
+ - Amenorrea, emenagogo
+ - Galactógeno
+ - Infecciones cutáneas, baño purificador
+ - Mastitis puerperal
+ - Parásitos intestinales
+ - Tos seca, garganta irritada
+
+FAMILIA: pch
+Significado probable: corte / raíz / mezcla
+Palabras EVA asociadas: pchedy
+Folios asociados: 002V, 005V, 007V, 009R, 010V
+Plantas asociadas: Althaea officinalis, Malva sylvestris, Rosmarinus officinalis, Ruta graveolens
+Usos médicos asociados:
+ - Amenorrea, emenagogo
+ - Anemia postparto
+ - Asma emocional
+ - Infecciones cutáneas, baño purificador
+ - Tos seca, garganta irritada
+
+FAMILIA: dai
+Significado probable: ciclo / repetición / menstruación
+Palabras EVA asociadas: daiin
+Folios asociados: 003R, 005V, 009V
+Plantas asociadas: Calendula officinalis, Rosmarinus officinalis, Ruta graveolens
+Usos médicos asociados:
+ - Anemia postparto
+ - Cicatrización episiotomía
+ - Endometritis
+
+FAMILIA: ata
+Significado probable: tintura / preparación
+Palabras EVA asociadas: ataiin
+Folios asociados: 003V, 006V, 008R
+Plantas asociadas: Hypericum perforatum, Tanacetum parthenium, Valeriana officinalis
+Usos médicos asociados:
+ - Ansiedad generalizada
+ - Depresión postparto
+ - Dismenorrea
+
+FAMILIA: qot
+Significado probable: perforar / abrir / canalizar
+Palabras EVA asociadas: qotein
+Folios asociados: 004R, 010V
+Plantas asociadas: Lavandula angustifolia, Rosmarinus officinalis
+Usos médicos asociados:
+ - Asma emocional
+ - Cefalea tensional menstrual
+
+
+3. INTERPRETACIÓN CONTEXTUAL
+----------------------------------------------------------------------
+El mapa semántico muestra una concentración de familias EVA relacionadas con preparación medicinal, agua/raíz, calor/sol/dolor, ciclos corporales y tinturas. Esta distribución es compatible con una lectura médica-formularia del corpus experimental.
+
+Las familias yka, qok, pch, dai, ata y sho podrían funcionar como raíces o marcadores semánticos recurrentes dentro de un sistema de instrucciones botánicas, farmacológicas o terapéuticas.
+
+Este resultado no constituye prueba definitiva de traducción, pero sí entrega una base estructurada para comparar el texto EVA con corpus médicos medievales, turco antiguo, persa médico, hidroterapia y astrología médica.

@@ -1,0 +1,502 @@
+folio,planta,uso_medico,palabra_eva,familia,significado_probable,longitud
+001R,Viola odorata,"Analgésico posparto, dolor menstrual",fachys,fac,hacer / ejecutar acción,6
+001R,Viola odorata,"Analgésico posparto, dolor menstrual",ykal,yka,preparación / hervido / escaldado,4
+001R,Viola odorata,"Analgésico posparto, dolor menstrual",ar,desconocida,pendiente,2
+001V,Salvia officinalis,Regulación ciclo menstrual postparto,shol,sho,sol / calor / dolor,4
+001V,Salvia officinalis,Regulación ciclo menstrual postparto,cthres,cth,número / medida / proporción,6
+002R,Salvia officinalis,Mastitis puerperal,qokeedy,qok,líquidos / raíz / medicina,7
+002R,Salvia officinalis,Mastitis puerperal,ykal,yka,preparación / hervido / escaldado,4
+002V,Ruta graveolens,"Amenorrea, emenagogo",pchedy,pch,corte / raíz / mezcla,6
+002V,Ruta graveolens,"Amenorrea, emenagogo",qokain,qok,líquidos / raíz / medicina,6
+003R,Calendula officinalis,Cicatrización episiotomía,daiin,dai,ciclo / repetición / menstruación,5
+003R,Calendula officinalis,Cicatrización episiotomía,shol,sho,sol / calor / dolor,4
+003V,Tanacetum parthenium,Dismenorrea,ar,desconocida,pendiente,2
+003V,Tanacetum parthenium,Dismenorrea,ataiin,ata,tintura / preparación,6
+004R,Lavandula angustifolia,Cefalea tensional menstrual,qotein,qot,perforar / abrir / canalizar,6
+004R,Lavandula angustifolia,Cefalea tensional menstrual,shol,sho,sol / calor / dolor,4
+004V,Borago officinalis,Galactógeno,fachys,fac,hacer / ejecutar acción,6
+004V,Borago officinalis,Galactógeno,qokeedy,qok,líquidos / raíz / medicina,7
+005R,Thymus vulgaris,Bronquitis puerperal,ykal,yka,preparación / hervido / escaldado,4
+005R,Thymus vulgaris,Bronquitis puerperal,shol,sho,sol / calor / dolor,4
+005V,Rosmarinus officinalis,Anemia postparto,pchedy,pch,corte / raíz / mezcla,6
+005V,Rosmarinus officinalis,Anemia postparto,daiin,dai,ciclo / repetición / menstruación,5
+006R,Artemisia absinthium,Parásitos intestinales,qokain,qok,líquidos / raíz / medicina,6
+006R,Artemisia absinthium,Parásitos intestinales,ykal,yka,preparación / hervido / escaldado,4
+006V,Hypericum perforatum,Depresión postparto,shol,sho,sol / calor / dolor,4
+006V,Hypericum perforatum,Depresión postparto,ataiin,ata,tintura / preparación,6
+007R,Melissa officinalis,Vulvovaginitis,fachys,fac,hacer / ejecutar acción,6
+007R,Melissa officinalis,Vulvovaginitis,ykal,yka,preparación / hervido / escaldado,4
+007V,Althaea officinalis,"Tos seca, garganta irritada",qokeedy,qok,líquidos / raíz / medicina,7
+007V,Althaea officinalis,"Tos seca, garganta irritada",pchedy,pch,corte / raíz / mezcla,6
+008R,Valeriana officinalis,Ansiedad generalizada,ar,desconocida,pendiente,2
+008R,Valeriana officinalis,Ansiedad generalizada,ataiin,ata,tintura / preparación,6
+008V,Mentha piperita,Náuseas del embarazo,cthres,cth,número / medida / proporción,6
+008V,Mentha piperita,Náuseas del embarazo,ykal,yka,preparación / hervido / escaldado,4
+009R,Malva sylvestris,"Infecciones cutáneas, baño purificador",qokeedy,qok,líquidos / raíz / medicina,7
+009R,Malva sylvestris,"Infecciones cutáneas, baño purificador",pchedy,pch,corte / raíz / mezcla,6
+009V,Ruta graveolens,Endometritis,daiin,dai,ciclo / repetición / menstruación,5
+009V,Ruta graveolens,Endometritis,shol,sho,sol / calor / dolor,4
+010R,Plantago major,"Heridas, úlceras",ykal,yka,preparación / hervido / escaldado,4
+010R,Plantago major,"Heridas, úlceras",ar,desconocida,pendiente,2
+010V,Rosmarinus officinalis,Asma emocional,pchedy,pch,corte / raíz / mezcla,6
+010V,Rosmarinus officinalis,Asma emocional,qotein,qot,perforar / abrir / canalizar,6
+011R,Artemisia vulgaris,"Regular ciclo menstrual, dolor cólico",nan,desconocida,pendiente,3
+011V,Valeriana officinalis,"Ansiedad postparto, insomnio",nan,desconocida,pendiente,3
+012R,Plantago major,"Cicatrización heridas, úlceras",nan,desconocida,pendiente,3
+012V,Urtica dioica,"Anemia, estimulante lactancia",nan,desconocida,pendiente,3
+013R,Tussilago farfara,"Tos, bronquitis",nan,desconocida,pendiente,3
+013V,Sambucus nigra,"Resfriados, fiebre",nan,desconocida,pendiente,3
+014R,Achillea millefolium,"Hemorragias, heridas",nan,desconocida,pendiente,3
+014V,Chelidonium majus,"Problemas hepáticos, verrugas",nan,desconocida,pendiente,3
+015R,Mentha piperita,"Digestión, náuseas",nan,desconocida,pendiente,3
+015V,Foeniculum vulgare,"Cólicos, galactógeno",nan,desconocida,pendiente,3
+016R,Allium sativum,"Infecciones, parásitos",nan,desconocida,pendiente,3
+016V,Cinnamomum verum,"Digestivo, estimulante",nan,desconocida,pendiente,3
+017R,Zingiber officinale,"Náuseas, vómitos",nan,desconocida,pendiente,3
+017V,Curcuma longa,Antiinflamatorio,nan,desconocida,pendiente,3
+018R,Glycyrrhiza glabra,"Tos, úlceras",nan,desconocida,pendiente,3
+018V,Althaea officinalis,Irritación garganta,nan,desconocida,pendiente,3
+019R,Rosa gallica,"Astringente, menstrual",nan,desconocida,pendiente,3
+019V,Lavandula angustifolia,"Sedante, cefalea",nan,desconocida,pendiente,3
+020R,Salvia officinalis,"Dolor menstrual, digestión",nan,desconocida,pendiente,3
+020V,Rosmarinus officinalis,"Circulación, memoria",nan,desconocida,pendiente,3
+021R,Sambucus nigra,Tratamiento general de salud femenina - protocolo folio 21,nan,desconocida,pendiente,3
+021V,Foeniculum vulgare,Tratamiento general de salud femenina - protocolo folio 21,nan,desconocida,pendiente,3
+022R,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 22,nan,desconocida,pendiente,3
+022V,Calendula officinalis,Tratamiento general de salud femenina - protocolo folio 22,nan,desconocida,pendiente,3
+023R,Glycyrrhiza glabra,Tratamiento general de salud femenina - protocolo folio 23,nan,desconocida,pendiente,3
+023V,Urtica dioica,Tratamiento general de salud femenina - protocolo folio 23,nan,desconocida,pendiente,3
+024R,Viola odorata,Tratamiento general de salud femenina - protocolo folio 24,nan,desconocida,pendiente,3
+024V,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 24,nan,desconocida,pendiente,3
+025R,Viola odorata,Tratamiento general de salud femenina - protocolo folio 25,nan,desconocida,pendiente,3
+025V,Chelidonium majus,Tratamiento general de salud femenina - protocolo folio 25,nan,desconocida,pendiente,3
+026R,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 26,nan,desconocida,pendiente,3
+026V,Mentha piperita,Tratamiento general de salud femenina - protocolo folio 26,nan,desconocida,pendiente,3
+027R,Cinnamomum verum,Tratamiento general de salud femenina - protocolo folio 27,nan,desconocida,pendiente,3
+027V,Allium sativum,Tratamiento general de salud femenina - protocolo folio 27,nan,desconocida,pendiente,3
+028R,Chelidonium majus,Tratamiento general de salud femenina - protocolo folio 28,nan,desconocida,pendiente,3
+028V,Rosmarinus officinalis,Tratamiento general de salud femenina - protocolo folio 28,nan,desconocida,pendiente,3
+029R,Allium sativum,Tratamiento general de salud femenina - protocolo folio 29,nan,desconocida,pendiente,3
+029V,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 29,nan,desconocida,pendiente,3
+030R,Melissa officinalis,Tratamiento general de salud femenina - protocolo folio 30,nan,desconocida,pendiente,3
+030V,Tussilago farfara,Tratamiento general de salud femenina - protocolo folio 30,nan,desconocida,pendiente,3
+031R,Salvia officinalis,Tratamiento general de salud femenina - protocolo folio 31,nan,desconocida,pendiente,3
+031V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 31,nan,desconocida,pendiente,3
+032R,Rosa gallica,Tratamiento general de salud femenina - protocolo folio 32,nan,desconocida,pendiente,3
+032V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 32,nan,desconocida,pendiente,3
+033R,Sambucus nigra,Tratamiento general de salud femenina - protocolo folio 33,nan,desconocida,pendiente,3
+033V,Curcuma longa,Tratamiento general de salud femenina - protocolo folio 33,nan,desconocida,pendiente,3
+034R,Borago officinalis,Tratamiento general de salud femenina - protocolo folio 34,nan,desconocida,pendiente,3
+034V,Salvia officinalis,Tratamiento general de salud femenina - protocolo folio 34,nan,desconocida,pendiente,3
+035R,Allium sativum,Tratamiento general de salud femenina - protocolo folio 35,nan,desconocida,pendiente,3
+035V,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 35,nan,desconocida,pendiente,3
+036R,Curcuma longa,Tratamiento general de salud femenina - protocolo folio 36,nan,desconocida,pendiente,3
+036V,Rosmarinus officinalis,Tratamiento general de salud femenina - protocolo folio 36,nan,desconocida,pendiente,3
+037R,Zingiber officinale,Tratamiento general de salud femenina - protocolo folio 37,nan,desconocida,pendiente,3
+037V,Melissa officinalis,Tratamiento general de salud femenina - protocolo folio 37,nan,desconocida,pendiente,3
+038R,Achillea millefolium,Tratamiento general de salud femenina - protocolo folio 38,nan,desconocida,pendiente,3
+038V,Rosa gallica,Tratamiento general de salud femenina - protocolo folio 38,nan,desconocida,pendiente,3
+039R,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 39,nan,desconocida,pendiente,3
+039V,Lavandula angustifolia,Tratamiento general de salud femenina - protocolo folio 39,nan,desconocida,pendiente,3
+040R,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 40,nan,desconocida,pendiente,3
+040V,Althaea officinalis,Tratamiento general de salud femenina - protocolo folio 40,nan,desconocida,pendiente,3
+041R,Rosa gallica,Tratamiento general de salud femenina - protocolo folio 41,nan,desconocida,pendiente,3
+041V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 41,nan,desconocida,pendiente,3
+042R,Hypericum perforatum,Tratamiento general de salud femenina - protocolo folio 42,nan,desconocida,pendiente,3
+042V,Allium sativum,Tratamiento general de salud femenina - protocolo folio 42,nan,desconocida,pendiente,3
+043R,Zingiber officinale,Tratamiento general de salud femenina - protocolo folio 43,nan,desconocida,pendiente,3
+043V,Hypericum perforatum,Tratamiento general de salud femenina - protocolo folio 43,nan,desconocida,pendiente,3
+044R,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 44,nan,desconocida,pendiente,3
+044V,Urtica dioica,Tratamiento general de salud femenina - protocolo folio 44,nan,desconocida,pendiente,3
+045R,Hypericum perforatum,Tratamiento general de salud femenina - protocolo folio 45,nan,desconocida,pendiente,3
+045V,Malva sylvestris,Tratamiento general de salud femenina - protocolo folio 45,nan,desconocida,pendiente,3
+046R,Rosa gallica,Tratamiento general de salud femenina - protocolo folio 46,nan,desconocida,pendiente,3
+046V,Tanacetum parthenium,Tratamiento general de salud femenina - protocolo folio 46,nan,desconocida,pendiente,3
+047R,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 47,nan,desconocida,pendiente,3
+047V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 47,nan,desconocida,pendiente,3
+048R,Urtica dioica,Tratamiento general de salud femenina - protocolo folio 48,nan,desconocida,pendiente,3
+048V,Urtica dioica,Tratamiento general de salud femenina - protocolo folio 48,nan,desconocida,pendiente,3
+049R,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 49,nan,desconocida,pendiente,3
+049V,Tanacetum parthenium,Tratamiento general de salud femenina - protocolo folio 49,nan,desconocida,pendiente,3
+050R,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 50,nan,desconocida,pendiente,3
+050V,Curcuma longa,Tratamiento general de salud femenina - protocolo folio 50,nan,desconocida,pendiente,3
+051R,Sambucus nigra,Tratamiento general de salud femenina - protocolo folio 51,nan,desconocida,pendiente,3
+051V,Achillea millefolium,Tratamiento general de salud femenina - protocolo folio 51,nan,desconocida,pendiente,3
+052R,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 52,nan,desconocida,pendiente,3
+052V,Tussilago farfara,Tratamiento general de salud femenina - protocolo folio 52,nan,desconocida,pendiente,3
+053R,Plantago major,Tratamiento general de salud femenina - protocolo folio 53,nan,desconocida,pendiente,3
+053V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 53,nan,desconocida,pendiente,3
+054R,Viola odorata,Tratamiento general de salud femenina - protocolo folio 54,nan,desconocida,pendiente,3
+054V,Calendula officinalis,Tratamiento general de salud femenina - protocolo folio 54,nan,desconocida,pendiente,3
+055R,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 55,nan,desconocida,pendiente,3
+055V,Allium sativum,Tratamiento general de salud femenina - protocolo folio 55,nan,desconocida,pendiente,3
+056R,Calendula officinalis,Tratamiento general de salud femenina - protocolo folio 56,nan,desconocida,pendiente,3
+056V,Lavandula angustifolia,Tratamiento general de salud femenina - protocolo folio 56,nan,desconocida,pendiente,3
+057R,Foeniculum vulgare,Tratamiento general de salud femenina - protocolo folio 57,nan,desconocida,pendiente,3
+057V,Rosmarinus officinalis,Tratamiento general de salud femenina - protocolo folio 57,nan,desconocida,pendiente,3
+058R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 58,nan,desconocida,pendiente,3
+058V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 58,nan,desconocida,pendiente,3
+059R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 59,nan,desconocida,pendiente,3
+059V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 59,nan,desconocida,pendiente,3
+060R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 60,nan,desconocida,pendiente,3
+060V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 60,nan,desconocida,pendiente,3
+061R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 61,nan,desconocida,pendiente,3
+061V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 61,nan,desconocida,pendiente,3
+062R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 62,nan,desconocida,pendiente,3
+062V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 62,nan,desconocida,pendiente,3
+063R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 63,nan,desconocida,pendiente,3
+063V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 63,nan,desconocida,pendiente,3
+064R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 64,nan,desconocida,pendiente,3
+064V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 64,nan,desconocida,pendiente,3
+065R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 65,nan,desconocida,pendiente,3
+065V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 65,nan,desconocida,pendiente,3
+066R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 66,nan,desconocida,pendiente,3
+066V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 66,nan,desconocida,pendiente,3
+067R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 67,nan,desconocida,pendiente,3
+067V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 67,nan,desconocida,pendiente,3
+068R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 68,nan,desconocida,pendiente,3
+068V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 68,nan,desconocida,pendiente,3
+069R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 69,nan,desconocida,pendiente,3
+069V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 69,nan,desconocida,pendiente,3
+070R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 70,nan,desconocida,pendiente,3
+070V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 70,nan,desconocida,pendiente,3
+071R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 71,nan,desconocida,pendiente,3
+071V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 71,nan,desconocida,pendiente,3
+072R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 72,nan,desconocida,pendiente,3
+072V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 72,nan,desconocida,pendiente,3
+073R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 73,nan,desconocida,pendiente,3
+073V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 73,nan,desconocida,pendiente,3
+074R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 74,nan,desconocida,pendiente,3
+074V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 74,nan,desconocida,pendiente,3
+075R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 75,nan,desconocida,pendiente,3
+075V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 75,nan,desconocida,pendiente,3
+076R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 76,nan,desconocida,pendiente,3
+076V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 76,nan,desconocida,pendiente,3
+077R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 77,nan,desconocida,pendiente,3
+077V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 77,nan,desconocida,pendiente,3
+078R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 78,nan,desconocida,pendiente,3
+078V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 78,nan,desconocida,pendiente,3
+079R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 79,nan,desconocida,pendiente,3
+079V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 79,nan,desconocida,pendiente,3
+080R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 80,nan,desconocida,pendiente,3
+080V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 80,nan,desconocida,pendiente,3
+081R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 81,nan,desconocida,pendiente,3
+081V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 81,nan,desconocida,pendiente,3
+082R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 82,nan,desconocida,pendiente,3
+082V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 82,nan,desconocida,pendiente,3
+083R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 83,nan,desconocida,pendiente,3
+083V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 83,nan,desconocida,pendiente,3
+084R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 84,nan,desconocida,pendiente,3
+084V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 84,nan,desconocida,pendiente,3
+085R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 85,nan,desconocida,pendiente,3
+085V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 85,nan,desconocida,pendiente,3
+086R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 86,nan,desconocida,pendiente,3
+086V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 86,nan,desconocida,pendiente,3
+087R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+087V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+088R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+088V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+089R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+089V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+090R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+090V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+091R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+091V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+092R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+092V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+093R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+093V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+094R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+094V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+095R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+095V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+096R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+096V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+097R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+097V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+098R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+098V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+099R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+099V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+100R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+100V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+101R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+101V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+102R,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+102V,Planta no especificada,Uso no especificado,nan,desconocida,pendiente,3
+103R,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 103,nan,desconocida,pendiente,3
+103V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 103,nan,desconocida,pendiente,3
+104R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 104,nan,desconocida,pendiente,3
+104V,Malva sylvestris,Terapia de baños medicinales - protocolo folio 104,nan,desconocida,pendiente,3
+105R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 105,nan,desconocida,pendiente,3
+105V,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 105,nan,desconocida,pendiente,3
+106R,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 106,nan,desconocida,pendiente,3
+106V,Malva sylvestris,Terapia de baños medicinales - protocolo folio 106,nan,desconocida,pendiente,3
+107R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 107,nan,desconocida,pendiente,3
+107V,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 107,nan,desconocida,pendiente,3
+108R,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 108,nan,desconocida,pendiente,3
+108V,Malva sylvestris,Terapia de baños medicinales - protocolo folio 108,nan,desconocida,pendiente,3
+109R,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 109,nan,desconocida,pendiente,3
+109V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 109,nan,desconocida,pendiente,3
+110R,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 110,nan,desconocida,pendiente,3
+110V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 110,nan,desconocida,pendiente,3
+111R,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 111,nan,desconocida,pendiente,3
+111V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 111,nan,desconocida,pendiente,3
+112R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 112,nan,desconocida,pendiente,3
+112V,Malva sylvestris,Terapia de baños medicinales - protocolo folio 112,nan,desconocida,pendiente,3
+113R,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 113,nan,desconocida,pendiente,3
+113V,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 113,nan,desconocida,pendiente,3
+114R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 114,nan,desconocida,pendiente,3
+114V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 114,nan,desconocida,pendiente,3
+115R,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 115,nan,desconocida,pendiente,3
+115V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 115,nan,desconocida,pendiente,3
+116R,Viola odorata,Preparación de compuestos complejos - protocolo folio 116,nan,desconocida,pendiente,3
+116V,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 116,nan,desconocida,pendiente,3
+117R,Viola odorata,Preparación de compuestos complejos - protocolo folio 117,nan,desconocida,pendiente,3
+117V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 117,nan,desconocida,pendiente,3
+118R,Viola odorata,Preparación de compuestos complejos - protocolo folio 118,nan,desconocida,pendiente,3
+118V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 118,nan,desconocida,pendiente,3
+119R,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 119,nan,desconocida,pendiente,3
+119V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 119,nan,desconocida,pendiente,3
+120R,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 120,nan,desconocida,pendiente,3
+120V,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 120,nan,desconocida,pendiente,3
+121R,Viola odorata,Preparación de compuestos complejos - protocolo folio 121,nan,desconocida,pendiente,3
+121V,Papaver somniferum,Preparación de compuestos complejos - protocolo folio 121,nan,desconocida,pendiente,3
+122R,Viola odorata,Preparación de compuestos complejos - protocolo folio 122,nan,desconocida,pendiente,3
+122V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 122,nan,desconocida,pendiente,3
+123R,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 123,nan,desconocida,pendiente,3
+123V,Papaver somniferum,Preparación de compuestos complejos - protocolo folio 123,nan,desconocida,pendiente,3
+124R,Papaver somniferum,Preparación de compuestos complejos - protocolo folio 124,nan,desconocida,pendiente,3
+124V,Viola odorata,Preparación de compuestos complejos - protocolo folio 124,nan,desconocida,pendiente,3
+125R,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 125,nan,desconocida,pendiente,3
+125V,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 125,nan,desconocida,pendiente,3
+126R,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 126,nan,desconocida,pendiente,3
+126V,Viola odorata,Preparación de compuestos complejos - protocolo folio 126,nan,desconocida,pendiente,3
+127R,Viola odorata,Preparación de compuestos complejos - protocolo folio 127,nan,desconocida,pendiente,3
+127V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 127,nan,desconocida,pendiente,3
+128R,Viola odorata,Preparación de compuestos complejos - protocolo folio 128,nan,desconocida,pendiente,3
+128V,Papaver somniferum,Preparación de compuestos complejos - protocolo folio 128,nan,desconocida,pendiente,3
+129R,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 129,nan,desconocida,pendiente,3
+129V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 129,nan,desconocida,pendiente,3
+130R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 130,nan,desconocida,pendiente,3
+130V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 130,nan,desconocida,pendiente,3
+131R,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 131,nan,desconocida,pendiente,3
+131V,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 131,nan,desconocida,pendiente,3
+132R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 132,nan,desconocida,pendiente,3
+132V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 132,nan,desconocida,pendiente,3
+133R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 133,nan,desconocida,pendiente,3
+133V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 133,nan,desconocida,pendiente,3
+134R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 134,nan,desconocida,pendiente,3
+134V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 134,nan,desconocida,pendiente,3
+135R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 135,nan,desconocida,pendiente,3
+135V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 135,nan,desconocida,pendiente,3
+136R,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 136,nan,desconocida,pendiente,3
+136V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 136,nan,desconocida,pendiente,3
+137R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 137,nan,desconocida,pendiente,3
+137V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 137,nan,desconocida,pendiente,3
+138R,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 138,nan,desconocida,pendiente,3
+138V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 138,nan,desconocida,pendiente,3
+139R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 139,nan,desconocida,pendiente,3
+139V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 139,nan,desconocida,pendiente,3
+140R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 140,nan,desconocida,pendiente,3
+140V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 140,nan,desconocida,pendiente,3
+141R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 141,nan,desconocida,pendiente,3
+141V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 141,nan,desconocida,pendiente,3
+142R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 142,nan,desconocida,pendiente,3
+142V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 142,nan,desconocida,pendiente,3
+143R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 143,nan,desconocida,pendiente,3
+143V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 143,nan,desconocida,pendiente,3
+144R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 144,nan,desconocida,pendiente,3
+144V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 144,nan,desconocida,pendiente,3
+145R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 145,nan,desconocida,pendiente,3
+145V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 145,nan,desconocida,pendiente,3
+146R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 146,nan,desconocida,pendiente,3
+146V,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 146,nan,desconocida,pendiente,3
+147R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 147,nan,desconocida,pendiente,3
+147V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 147,nan,desconocida,pendiente,3
+148R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 148,nan,desconocida,pendiente,3
+148V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 148,nan,desconocida,pendiente,3
+149R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 149,nan,desconocida,pendiente,3
+149V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 149,nan,desconocida,pendiente,3
+150R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 150,nan,desconocida,pendiente,3
+150V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 150,nan,desconocida,pendiente,3
+151R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 151,nan,desconocida,pendiente,3
+151V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 151,nan,desconocida,pendiente,3
+152R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 152,nan,desconocida,pendiente,3
+152V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 152,nan,desconocida,pendiente,3
+153R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 153,nan,desconocida,pendiente,3
+153V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 153,nan,desconocida,pendiente,3
+154R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 154,nan,desconocida,pendiente,3
+154V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 154,nan,desconocida,pendiente,3
+155R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 155,nan,desconocida,pendiente,3
+155V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 155,nan,desconocida,pendiente,3
+156R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 156,nan,desconocida,pendiente,3
+156V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 156,nan,desconocida,pendiente,3
+157R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 157,nan,desconocida,pendiente,3
+157V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 157,nan,desconocida,pendiente,3
+158R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 158,nan,desconocida,pendiente,3
+158V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 158,nan,desconocida,pendiente,3
+159R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 159,nan,desconocida,pendiente,3
+159V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 159,nan,desconocida,pendiente,3
+160R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 160,nan,desconocida,pendiente,3
+160V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 160,nan,desconocida,pendiente,3
+161R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 161,nan,desconocida,pendiente,3
+161V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 161,nan,desconocida,pendiente,3
+162R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 162,nan,desconocida,pendiente,3
+162V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 162,nan,desconocida,pendiente,3
+163R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 163,nan,desconocida,pendiente,3
+163V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 163,nan,desconocida,pendiente,3
+164R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 164,nan,desconocida,pendiente,3
+164V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 164,nan,desconocida,pendiente,3
+165R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 165,nan,desconocida,pendiente,3
+165V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 165,nan,desconocida,pendiente,3
+166R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 166,nan,desconocida,pendiente,3
+166V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 166,nan,desconocida,pendiente,3
+167R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 167,nan,desconocida,pendiente,3
+167V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 167,nan,desconocida,pendiente,3
+168R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 168,nan,desconocida,pendiente,3
+168V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 168,nan,desconocida,pendiente,3
+169R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 169,nan,desconocida,pendiente,3
+169V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 169,nan,desconocida,pendiente,3
+170R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 170,nan,desconocida,pendiente,3
+170V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 170,nan,desconocida,pendiente,3
+171R,Verbascum thapsus,Medicina astrológica - protocolo folio 171,nan,desconocida,pendiente,3
+171V,Verbascum thapsus,Medicina astrológica - protocolo folio 171,nan,desconocida,pendiente,3
+172R,Verbascum thapsus,Medicina astrológica - protocolo folio 172,nan,desconocida,pendiente,3
+172V,Artemisia vulgaris,Medicina astrológica - protocolo folio 172,nan,desconocida,pendiente,3
+173R,Verbascum thapsus,Medicina astrológica - protocolo folio 173,nan,desconocida,pendiente,3
+173V,Artemisia vulgaris,Medicina astrológica - protocolo folio 173,nan,desconocida,pendiente,3
+174R,Verbascum thapsus,Medicina astrológica - protocolo folio 174,nan,desconocida,pendiente,3
+174V,Verbascum thapsus,Medicina astrológica - protocolo folio 174,nan,desconocida,pendiente,3
+175R,Artemisia vulgaris,Medicina astrológica - protocolo folio 175,nan,desconocida,pendiente,3
+175V,Artemisia vulgaris,Medicina astrológica - protocolo folio 175,nan,desconocida,pendiente,3
+176R,Verbascum thapsus,Medicina astrológica - protocolo folio 176,nan,desconocida,pendiente,3
+176V,Verbascum thapsus,Medicina astrológica - protocolo folio 176,nan,desconocida,pendiente,3
+177R,Verbascum thapsus,Medicina astrológica - protocolo folio 177,nan,desconocida,pendiente,3
+177V,Artemisia vulgaris,Medicina astrológica - protocolo folio 177,nan,desconocida,pendiente,3
+178R,Verbascum thapsus,Medicina astrológica - protocolo folio 178,nan,desconocida,pendiente,3
+178V,Verbascum thapsus,Medicina astrológica - protocolo folio 178,nan,desconocida,pendiente,3
+179R,Verbascum thapsus,Medicina astrológica - protocolo folio 179,nan,desconocida,pendiente,3
+179V,Artemisia vulgaris,Medicina astrológica - protocolo folio 179,nan,desconocida,pendiente,3
+180R,Artemisia vulgaris,Medicina astrológica - protocolo folio 180,nan,desconocida,pendiente,3
+180V,Verbascum thapsus,Medicina astrológica - protocolo folio 180,nan,desconocida,pendiente,3
+181R,Artemisia vulgaris,Medicina astrológica - protocolo folio 181,nan,desconocida,pendiente,3
+181V,Artemisia vulgaris,Medicina astrológica - protocolo folio 181,nan,desconocida,pendiente,3
+182R,Artemisia vulgaris,Medicina astrológica - protocolo folio 182,nan,desconocida,pendiente,3
+182V,Artemisia vulgaris,Medicina astrológica - protocolo folio 182,nan,desconocida,pendiente,3
+183R,Viola odorata,Correspondencia entre abadesas - protocolo folio 183,nan,desconocida,pendiente,3
+183V,Viola odorata,Correspondencia entre abadesas - protocolo folio 183,nan,desconocida,pendiente,3
+184R,Viola odorata,Correspondencia entre abadesas - protocolo folio 184,nan,desconocida,pendiente,3
+184V,Borago officinalis,Correspondencia entre abadesas - protocolo folio 184,nan,desconocida,pendiente,3
+185R,Viola odorata,Correspondencia entre abadesas - protocolo folio 185,nan,desconocida,pendiente,3
+185V,Viola odorata,Correspondencia entre abadesas - protocolo folio 185,nan,desconocida,pendiente,3
+186R,Viola odorata,Correspondencia entre abadesas - protocolo folio 186,nan,desconocida,pendiente,3
+186V,Viola odorata,Correspondencia entre abadesas - protocolo folio 186,nan,desconocida,pendiente,3
+187R,Borago officinalis,Correspondencia entre abadesas - protocolo folio 187,nan,desconocida,pendiente,3
+187V,Borago officinalis,Correspondencia entre abadesas - protocolo folio 187,nan,desconocida,pendiente,3
+188R,Viola odorata,Correspondencia entre abadesas - protocolo folio 188,nan,desconocida,pendiente,3
+188V,Viola odorata,Correspondencia entre abadesas - protocolo folio 188,nan,desconocida,pendiente,3
+189R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 189,nan,desconocida,pendiente,3
+189V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 189,nan,desconocida,pendiente,3
+190R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 190,nan,desconocida,pendiente,3
+190V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 190,nan,desconocida,pendiente,3
+191R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 191,nan,desconocida,pendiente,3
+191V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 191,nan,desconocida,pendiente,3
+192R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 192,nan,desconocida,pendiente,3
+192V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 192,nan,desconocida,pendiente,3
+193R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 193,nan,desconocida,pendiente,3
+193V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 193,nan,desconocida,pendiente,3
+194R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 194,nan,desconocida,pendiente,3
+194V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 194,nan,desconocida,pendiente,3
+195R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 195,nan,desconocida,pendiente,3
+195V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 195,nan,desconocida,pendiente,3
+196R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 196,nan,desconocida,pendiente,3
+196V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 196,nan,desconocida,pendiente,3
+197R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 197,nan,desconocida,pendiente,3
+197V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 197,nan,desconocida,pendiente,3
+198R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 198,nan,desconocida,pendiente,3
+198V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 198,nan,desconocida,pendiente,3
+199R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 199,nan,desconocida,pendiente,3
+199V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 199,nan,desconocida,pendiente,3
+200R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 200,nan,desconocida,pendiente,3
+200V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 200,nan,desconocida,pendiente,3
+201R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 201,nan,desconocida,pendiente,3
+201V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 201,nan,desconocida,pendiente,3
+202R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 202,nan,desconocida,pendiente,3
+202V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 202,nan,desconocida,pendiente,3
+203R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 203,nan,desconocida,pendiente,3
+203V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 203,nan,desconocida,pendiente,3
+204R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 204,nan,desconocida,pendiente,3
+204V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 204,nan,desconocida,pendiente,3
+205R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 205,nan,desconocida,pendiente,3
+205V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 205,nan,desconocida,pendiente,3
+206R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 206,nan,desconocida,pendiente,3
+206V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 206,nan,desconocida,pendiente,3
+207R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 207,nan,desconocida,pendiente,3
+207V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 207,nan,desconocida,pendiente,3
+208R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 208,nan,desconocida,pendiente,3
+208V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 208,nan,desconocida,pendiente,3
+209R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 209,nan,desconocida,pendiente,3
+209V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 209,nan,desconocida,pendiente,3
+210R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 210,nan,desconocida,pendiente,3
+210V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 210,nan,desconocida,pendiente,3
+211R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 211,nan,desconocida,pendiente,3
+211V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 211,nan,desconocida,pendiente,3
+212R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 212,nan,desconocida,pendiente,3
+212V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 212,nan,desconocida,pendiente,3
+213R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 213,nan,desconocida,pendiente,3
+213V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 213,nan,desconocida,pendiente,3
+214R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 214,nan,desconocida,pendiente,3
+214V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 214,nan,desconocida,pendiente,3
+215R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 215,nan,desconocida,pendiente,3
+215V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 215,nan,desconocida,pendiente,3
+216R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 216,nan,desconocida,pendiente,3
+216V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 216,nan,desconocida,pendiente,3
+217R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 217,nan,desconocida,pendiente,3
+217V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 217,nan,desconocida,pendiente,3
+218R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 218,nan,desconocida,pendiente,3
+218V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 218,nan,desconocida,pendiente,3
+219R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 219,nan,desconocida,pendiente,3
+219V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 219,nan,desconocida,pendiente,3
+220R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 220,nan,desconocida,pendiente,3
+220V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 220,nan,desconocida,pendiente,3
+221R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 221,nan,desconocida,pendiente,3
+221V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 221,nan,desconocida,pendiente,3
+222R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 222,nan,desconocida,pendiente,3
+222V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 222,nan,desconocida,pendiente,3
+223R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 223,nan,desconocida,pendiente,3
+223V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 223,nan,desconocida,pendiente,3
+224R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 224,nan,desconocida,pendiente,3
+224V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 224,nan,desconocida,pendiente,3
+225R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 225,nan,desconocida,pendiente,3
+225V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 225,nan,desconocida,pendiente,3
+226R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 226,nan,desconocida,pendiente,3
+226V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 226,nan,desconocida,pendiente,3
+227R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 227,nan,desconocida,pendiente,3
+227V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 227,nan,desconocida,pendiente,3
+228R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 228,nan,desconocida,pendiente,3
+228V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 228,nan,desconocida,pendiente,3
+229R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 229,nan,desconocida,pendiente,3
+229V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 229,nan,desconocida,pendiente,3
+230R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 230,nan,desconocida,pendiente,3
+230V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 230,nan,desconocida,pendiente,3
+231R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 231,nan,desconocida,pendiente,3
+231V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 231,nan,desconocida,pendiente,3
+232R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 232,nan,desconocida,pendiente,3
+232V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 232,nan,desconocida,pendiente,3
+233R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 233,nan,desconocida,pendiente,3
+233V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 233,nan,desconocida,pendiente,3
+234R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 234,nan,desconocida,pendiente,3
+234V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 234,nan,desconocida,pendiente,3
+235R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 235,nan,desconocida,pendiente,3
+235V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 235,nan,desconocida,pendiente,3
+236R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 236,nan,desconocida,pendiente,3
+236V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 236,nan,desconocida,pendiente,3
+237R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 237,nan,desconocida,pendiente,3
+237V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 237,nan,desconocida,pendiente,3
+238R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 238,nan,desconocida,pendiente,3
+238V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 238,nan,desconocida,pendiente,3
+239R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 239,nan,desconocida,pendiente,3
+239V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 239,nan,desconocida,pendiente,3
+240R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 240,nan,desconocida,pendiente,3
+240V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 240,nan,desconocida,pendiente,3

@@ -1,0 +1,38 @@
+folio,planta,uso_medico,palabra_eva,familia,significado_probable,longitud
+001R,Viola odorata,"Analgésico posparto, dolor menstrual",fachys,fac,hacer / ejecutar acción,6
+001R,Viola odorata,"Analgésico posparto, dolor menstrual",ykal,yka,preparación / hervido / escaldado,4
+001V,Salvia officinalis,Regulación ciclo menstrual postparto,shol,sho,sol / calor / dolor,4
+001V,Salvia officinalis,Regulación ciclo menstrual postparto,cthres,cth,número / medida / proporción,6
+002R,Salvia officinalis,Mastitis puerperal,qokeedy,qok,líquidos / raíz / medicina,7
+002R,Salvia officinalis,Mastitis puerperal,ykal,yka,preparación / hervido / escaldado,4
+002V,Ruta graveolens,"Amenorrea, emenagogo",pchedy,pch,corte / raíz / mezcla,6
+002V,Ruta graveolens,"Amenorrea, emenagogo",qokain,qok,líquidos / raíz / medicina,6
+003R,Calendula officinalis,Cicatrización episiotomía,daiin,dai,ciclo / repetición / menstruación,5
+003R,Calendula officinalis,Cicatrización episiotomía,shol,sho,sol / calor / dolor,4
+003V,Tanacetum parthenium,Dismenorrea,ataiin,ata,tintura / preparación,6
+004R,Lavandula angustifolia,Cefalea tensional menstrual,qotein,qot,perforar / abrir / canalizar,6
+004R,Lavandula angustifolia,Cefalea tensional menstrual,shol,sho,sol / calor / dolor,4
+004V,Borago officinalis,Galactógeno,fachys,fac,hacer / ejecutar acción,6
+004V,Borago officinalis,Galactógeno,qokeedy,qok,líquidos / raíz / medicina,7
+005R,Thymus vulgaris,Bronquitis puerperal,ykal,yka,preparación / hervido / escaldado,4
+005R,Thymus vulgaris,Bronquitis puerperal,shol,sho,sol / calor / dolor,4
+005V,Rosmarinus officinalis,Anemia postparto,pchedy,pch,corte / raíz / mezcla,6
+005V,Rosmarinus officinalis,Anemia postparto,daiin,dai,ciclo / repetición / menstruación,5
+006R,Artemisia absinthium,Parásitos intestinales,qokain,qok,líquidos / raíz / medicina,6
+006R,Artemisia absinthium,Parásitos intestinales,ykal,yka,preparación / hervido / escaldado,4
+006V,Hypericum perforatum,Depresión postparto,shol,sho,sol / calor / dolor,4
+006V,Hypericum perforatum,Depresión postparto,ataiin,ata,tintura / preparación,6
+007R,Melissa officinalis,Vulvovaginitis,fachys,fac,hacer / ejecutar acción,6
+007R,Melissa officinalis,Vulvovaginitis,ykal,yka,preparación / hervido / escaldado,4
+007V,Althaea officinalis,"Tos seca, garganta irritada",qokeedy,qok,líquidos / raíz / medicina,7
+007V,Althaea officinalis,"Tos seca, garganta irritada",pchedy,pch,corte / raíz / mezcla,6
+008R,Valeriana officinalis,Ansiedad generalizada,ataiin,ata,tintura / preparación,6
+008V,Mentha piperita,Náuseas del embarazo,cthres,cth,número / medida / proporción,6
+008V,Mentha piperita,Náuseas del embarazo,ykal,yka,preparación / hervido / escaldado,4
+009R,Malva sylvestris,"Infecciones cutáneas, baño purificador",qokeedy,qok,líquidos / raíz / medicina,7
+009R,Malva sylvestris,"Infecciones cutáneas, baño purificador",pchedy,pch,corte / raíz / mezcla,6
+009V,Ruta graveolens,Endometritis,daiin,dai,ciclo / repetición / menstruación,5
+009V,Ruta graveolens,Endometritis,shol,sho,sol / calor / dolor,4
+010R,Plantago major,"Heridas, úlceras",ykal,yka,preparación / hervido / escaldado,4
+010V,Rosmarinus officinalis,Asma emocional,pchedy,pch,corte / raíz / mezcla,6
+010V,Rosmarinus officinalis,Asma emocional,qotein,qot,perforar / abrir / canalizar,6

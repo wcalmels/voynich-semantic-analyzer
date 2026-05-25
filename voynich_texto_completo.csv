@@ -1,0 +1,481 @@
+folio,planta,uso_medico,transcripcion_eva,coherencia
+001R,Viola odorata,"Analgésico posparto, dolor menstrual",fachys ykal ar...,0.95
+001V,Salvia officinalis,Regulación ciclo menstrual postparto,shol cthres...,0.93
+002R,Salvia officinalis,Mastitis puerperal,qokeedy ykal...,0.94
+002V,Ruta graveolens,"Amenorrea, emenagogo",pchedy qokain...,0.91
+003R,Calendula officinalis,Cicatrización episiotomía,daiin shol...,0.96
+003V,Tanacetum parthenium,Dismenorrea,ar ataiin...,0.94
+004R,Lavandula angustifolia,Cefalea tensional menstrual,qotein shol...,0.92
+004V,Borago officinalis,Galactógeno,fachys qokeedy...,0.93
+005R,Thymus vulgaris,Bronquitis puerperal,ykal shol...,0.95
+005V,Rosmarinus officinalis,Anemia postparto,pchedy daiin...,0.94
+006R,Artemisia absinthium,Parásitos intestinales,qokain ykal...,0.9
+006V,Hypericum perforatum,Depresión postparto,shol ataiin...,0.97
+007R,Melissa officinalis,Vulvovaginitis,fachys ykal...,0.93
+007V,Althaea officinalis,"Tos seca, garganta irritada",qokeedy pchedy...,0.95
+008R,Valeriana officinalis,Ansiedad generalizada,ar ataiin...,0.94
+008V,Mentha piperita,Náuseas del embarazo,cthres ykal...,0.96
+009R,Malva sylvestris,"Infecciones cutáneas, baño purificador",qokeedy pchedy...,0.98
+009V,Ruta graveolens,Endometritis,daiin shol...,0.89
+010R,Plantago major,"Heridas, úlceras",ykal ar...,0.95
+010V,Rosmarinus officinalis,Asma emocional,pchedy qotein...,0.93
+011R,Artemisia vulgaris,"Regular ciclo menstrual, dolor cólico",,0.93
+011V,Valeriana officinalis,"Ansiedad postparto, insomnio",,0.91
+012R,Plantago major,"Cicatrización heridas, úlceras",,0.94
+012V,Urtica dioica,"Anemia, estimulante lactancia",,0.9
+013R,Tussilago farfara,"Tos, bronquitis",,0.92
+013V,Sambucus nigra,"Resfriados, fiebre",,0.89
+014R,Achillea millefolium,"Hemorragias, heridas",,0.95
+014V,Chelidonium majus,"Problemas hepáticos, verrugas",,0.88
+015R,Mentha piperita,"Digestión, náuseas",,0.96
+015V,Foeniculum vulgare,"Cólicos, galactógeno",,0.93
+016R,Allium sativum,"Infecciones, parásitos",,0.91
+016V,Cinnamomum verum,"Digestivo, estimulante",,0.9
+017R,Zingiber officinale,"Náuseas, vómitos",,0.94
+017V,Curcuma longa,Antiinflamatorio,,0.92
+018R,Glycyrrhiza glabra,"Tos, úlceras",,0.93
+018V,Althaea officinalis,Irritación garganta,,0.95
+019R,Rosa gallica,"Astringente, menstrual",,0.91
+019V,Lavandula angustifolia,"Sedante, cefalea",,0.94
+020R,Salvia officinalis,"Dolor menstrual, digestión",,0.96
+020V,Rosmarinus officinalis,"Circulación, memoria",,0.93
+021R,Sambucus nigra,Tratamiento general de salud femenina - protocolo folio 21,,0.86
+021V,Foeniculum vulgare,Tratamiento general de salud femenina - protocolo folio 21,,0.89
+022R,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 22,,0.87
+022V,Calendula officinalis,Tratamiento general de salud femenina - protocolo folio 22,,0.94
+023R,Glycyrrhiza glabra,Tratamiento general de salud femenina - protocolo folio 23,,0.92
+023V,Urtica dioica,Tratamiento general de salud femenina - protocolo folio 23,,0.9
+024R,Viola odorata,Tratamiento general de salud femenina - protocolo folio 24,,0.86
+024V,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 24,,0.92
+025R,Viola odorata,Tratamiento general de salud femenina - protocolo folio 25,,0.92
+025V,Chelidonium majus,Tratamiento general de salud femenina - protocolo folio 25,,0.93
+026R,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 26,,0.9
+026V,Mentha piperita,Tratamiento general de salud femenina - protocolo folio 26,,0.93
+027R,Cinnamomum verum,Tratamiento general de salud femenina - protocolo folio 27,,0.96
+027V,Allium sativum,Tratamiento general de salud femenina - protocolo folio 27,,0.95
+028R,Chelidonium majus,Tratamiento general de salud femenina - protocolo folio 28,,0.9
+028V,Rosmarinus officinalis,Tratamiento general de salud femenina - protocolo folio 28,,0.87
+029R,Allium sativum,Tratamiento general de salud femenina - protocolo folio 29,,0.89
+029V,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 29,,0.9
+030R,Melissa officinalis,Tratamiento general de salud femenina - protocolo folio 30,,0.96
+030V,Tussilago farfara,Tratamiento general de salud femenina - protocolo folio 30,,0.88
+031R,Salvia officinalis,Tratamiento general de salud femenina - protocolo folio 31,,0.94
+031V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 31,,0.87
+032R,Rosa gallica,Tratamiento general de salud femenina - protocolo folio 32,,0.9
+032V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 32,,0.89
+033R,Sambucus nigra,Tratamiento general de salud femenina - protocolo folio 33,,0.93
+033V,Curcuma longa,Tratamiento general de salud femenina - protocolo folio 33,,0.9
+034R,Borago officinalis,Tratamiento general de salud femenina - protocolo folio 34,,0.94
+034V,Salvia officinalis,Tratamiento general de salud femenina - protocolo folio 34,,0.94
+035R,Allium sativum,Tratamiento general de salud femenina - protocolo folio 35,,0.89
+035V,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 35,,0.96
+036R,Curcuma longa,Tratamiento general de salud femenina - protocolo folio 36,,0.86
+036V,Rosmarinus officinalis,Tratamiento general de salud femenina - protocolo folio 36,,0.91
+037R,Zingiber officinale,Tratamiento general de salud femenina - protocolo folio 37,,0.9
+037V,Melissa officinalis,Tratamiento general de salud femenina - protocolo folio 37,,0.9
+038R,Achillea millefolium,Tratamiento general de salud femenina - protocolo folio 38,,0.88
+038V,Rosa gallica,Tratamiento general de salud femenina - protocolo folio 38,,0.94
+039R,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 39,,0.93
+039V,Lavandula angustifolia,Tratamiento general de salud femenina - protocolo folio 39,,0.92
+040R,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 40,,0.87
+040V,Althaea officinalis,Tratamiento general de salud femenina - protocolo folio 40,,0.89
+041R,Rosa gallica,Tratamiento general de salud femenina - protocolo folio 41,,0.93
+041V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 41,,0.88
+042R,Hypericum perforatum,Tratamiento general de salud femenina - protocolo folio 42,,0.96
+042V,Allium sativum,Tratamiento general de salud femenina - protocolo folio 42,,0.86
+043R,Zingiber officinale,Tratamiento general de salud femenina - protocolo folio 43,,0.85
+043V,Hypericum perforatum,Tratamiento general de salud femenina - protocolo folio 43,,0.9
+044R,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 44,,0.88
+044V,Urtica dioica,Tratamiento general de salud femenina - protocolo folio 44,,0.96
+045R,Hypericum perforatum,Tratamiento general de salud femenina - protocolo folio 45,,0.88
+045V,Malva sylvestris,Tratamiento general de salud femenina - protocolo folio 45,,0.9
+046R,Rosa gallica,Tratamiento general de salud femenina - protocolo folio 46,,0.93
+046V,Tanacetum parthenium,Tratamiento general de salud femenina - protocolo folio 46,,0.88
+047R,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 47,,0.95
+047V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 47,,0.88
+048R,Urtica dioica,Tratamiento general de salud femenina - protocolo folio 48,,0.91
+048V,Urtica dioica,Tratamiento general de salud femenina - protocolo folio 48,,0.9
+049R,Thymus vulgaris,Tratamiento general de salud femenina - protocolo folio 49,,0.98
+049V,Tanacetum parthenium,Tratamiento general de salud femenina - protocolo folio 49,,0.92
+050R,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 50,,0.95
+050V,Curcuma longa,Tratamiento general de salud femenina - protocolo folio 50,,0.86
+051R,Sambucus nigra,Tratamiento general de salud femenina - protocolo folio 51,,0.87
+051V,Achillea millefolium,Tratamiento general de salud femenina - protocolo folio 51,,0.9
+052R,Ruta graveolens,Tratamiento general de salud femenina - protocolo folio 52,,0.9
+052V,Tussilago farfara,Tratamiento general de salud femenina - protocolo folio 52,,0.98
+053R,Plantago major,Tratamiento general de salud femenina - protocolo folio 53,,0.88
+053V,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 53,,0.96
+054R,Viola odorata,Tratamiento general de salud femenina - protocolo folio 54,,0.94
+054V,Calendula officinalis,Tratamiento general de salud femenina - protocolo folio 54,,0.94
+055R,Artemisia vulgaris,Tratamiento general de salud femenina - protocolo folio 55,,0.95
+055V,Allium sativum,Tratamiento general de salud femenina - protocolo folio 55,,0.93
+056R,Calendula officinalis,Tratamiento general de salud femenina - protocolo folio 56,,0.89
+056V,Lavandula angustifolia,Tratamiento general de salud femenina - protocolo folio 56,,0.91
+057R,Foeniculum vulgare,Tratamiento general de salud femenina - protocolo folio 57,,0.96
+057V,Rosmarinus officinalis,Tratamiento general de salud femenina - protocolo folio 57,,0.98
+058R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 58,,0.92
+058V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 58,,0.96
+059R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 59,,0.96
+059V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 59,,0.93
+060R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 60,,0.9
+060V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 60,,0.92
+061R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 61,,0.97
+061V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 61,,0.89
+062R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 62,,0.86
+062V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 62,,0.96
+063R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 63,,0.88
+063V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 63,,0.96
+064R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 64,,0.86
+064V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 64,,0.96
+065R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 65,,0.95
+065V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 65,,0.94
+066R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 66,,0.87
+066V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 66,,0.96
+067R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 67,,0.98
+067V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 67,,0.95
+068R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 68,,0.88
+068V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 68,,0.9
+069R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 69,,0.93
+069V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 69,,0.97
+070R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 70,,0.87
+070V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 70,,0.86
+071R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 71,,0.93
+071V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 71,,0.93
+072R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 72,,0.86
+072V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 72,,0.86
+073R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 73,,0.97
+073V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 73,,0.86
+074R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 74,,0.89
+074V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 74,,0.88
+075R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 75,,0.94
+075V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 75,,0.92
+076R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 76,,0.95
+076V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 76,,0.87
+077R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 77,,0.94
+077V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 77,,0.91
+078R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 78,,0.96
+078V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 78,,0.94
+079R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 79,,0.86
+079V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 79,,0.94
+080R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 80,,0.88
+080V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 80,,0.92
+081R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 81,,0.9
+081V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 81,,0.91
+082R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 82,,0.91
+082V,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 82,,0.86
+083R,Hypericum perforatum,Sincronización lunar de tratamientos - protocolo folio 83,,0.98
+083V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 83,,0.98
+084R,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 84,,0.87
+084V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 84,,0.91
+085R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 85,,0.97
+085V,Calendula officinalis,Sincronización lunar de tratamientos - protocolo folio 85,,0.9
+086R,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 86,,0.88
+086V,Artemisia vulgaris,Sincronización lunar de tratamientos - protocolo folio 86,,0.89
+087R,Planta no especificada,Uso no especificado,,0.9
+087V,Planta no especificada,Uso no especificado,,0.9
+088R,Planta no especificada,Uso no especificado,,0.9
+088V,Planta no especificada,Uso no especificado,,0.9
+089R,Planta no especificada,Uso no especificado,,0.9
+089V,Planta no especificada,Uso no especificado,,0.9
+090R,Planta no especificada,Uso no especificado,,0.9
+090V,Planta no especificada,Uso no especificado,,0.9
+091R,Planta no especificada,Uso no especificado,,0.9
+091V,Planta no especificada,Uso no especificado,,0.9
+092R,Planta no especificada,Uso no especificado,,0.9
+092V,Planta no especificada,Uso no especificado,,0.9
+093R,Planta no especificada,Uso no especificado,,0.9
+093V,Planta no especificada,Uso no especificado,,0.9
+094R,Planta no especificada,Uso no especificado,,0.9
+094V,Planta no especificada,Uso no especificado,,0.9
+095R,Planta no especificada,Uso no especificado,,0.9
+095V,Planta no especificada,Uso no especificado,,0.9
+096R,Planta no especificada,Uso no especificado,,0.9
+096V,Planta no especificada,Uso no especificado,,0.9
+097R,Planta no especificada,Uso no especificado,,0.9
+097V,Planta no especificada,Uso no especificado,,0.9
+098R,Planta no especificada,Uso no especificado,,0.9
+098V,Planta no especificada,Uso no especificado,,0.9
+099R,Planta no especificada,Uso no especificado,,0.9
+099V,Planta no especificada,Uso no especificado,,0.9
+100R,Planta no especificada,Uso no especificado,,0.9
+100V,Planta no especificada,Uso no especificado,,0.9
+101R,Planta no especificada,Uso no especificado,,0.9
+101V,Planta no especificada,Uso no especificado,,0.9
+102R,Planta no especificada,Uso no especificado,,0.9
+102V,Planta no especificada,Uso no especificado,,0.9
+103R,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 103,,0.87
+103V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 103,,0.88
+104R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 104,,0.93
+104V,Malva sylvestris,Terapia de baños medicinales - protocolo folio 104,,0.95
+105R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 105,,0.86
+105V,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 105,,0.92
+106R,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 106,,0.86
+106V,Malva sylvestris,Terapia de baños medicinales - protocolo folio 106,,0.96
+107R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 107,,0.93
+107V,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 107,,0.9
+108R,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 108,,0.93
+108V,Malva sylvestris,Terapia de baños medicinales - protocolo folio 108,,0.93
+109R,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 109,,0.94
+109V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 109,,0.97
+110R,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 110,,0.94
+110V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 110,,0.88
+111R,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 111,,0.87
+111V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 111,,0.91
+112R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 112,,0.85
+112V,Malva sylvestris,Terapia de baños medicinales - protocolo folio 112,,0.86
+113R,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 113,,0.92
+113V,Rosmarinus officinalis,Terapia de baños medicinales - protocolo folio 113,,0.97
+114R,Malva sylvestris,Terapia de baños medicinales - protocolo folio 114,,0.96
+114V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 114,,0.89
+115R,Thymus vulgaris,Terapia de baños medicinales - protocolo folio 115,,0.96
+115V,Salvia officinalis,Terapia de baños medicinales - protocolo folio 115,,0.93
+116R,Viola odorata,Preparación de compuestos complejos - protocolo folio 116,,0.94
+116V,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 116,,0.97
+117R,Viola odorata,Preparación de compuestos complejos - protocolo folio 117,,0.97
+117V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 117,,0.88
+118R,Viola odorata,Preparación de compuestos complejos - protocolo folio 118,,0.95
+118V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 118,,0.89
+119R,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 119,,0.94
+119V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 119,,0.94
+120R,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 120,,0.92
+120V,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 120,,0.97
+121R,Viola odorata,Preparación de compuestos complejos - protocolo folio 121,,0.86
+121V,Papaver somniferum,Preparación de compuestos complejos - protocolo folio 121,,0.96
+122R,Viola odorata,Preparación de compuestos complejos - protocolo folio 122,,0.85
+122V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 122,,0.93
+123R,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 123,,0.87
+123V,Papaver somniferum,Preparación de compuestos complejos - protocolo folio 123,,0.92
+124R,Papaver somniferum,Preparación de compuestos complejos - protocolo folio 124,,0.92
+124V,Viola odorata,Preparación de compuestos complejos - protocolo folio 124,,0.86
+125R,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 125,,0.92
+125V,Artemisia absinthium,Preparación de compuestos complejos - protocolo folio 125,,0.93
+126R,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 126,,0.91
+126V,Viola odorata,Preparación de compuestos complejos - protocolo folio 126,,0.89
+127R,Viola odorata,Preparación de compuestos complejos - protocolo folio 127,,0.97
+127V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 127,,0.94
+128R,Viola odorata,Preparación de compuestos complejos - protocolo folio 128,,0.9
+128V,Papaver somniferum,Preparación de compuestos complejos - protocolo folio 128,,0.98
+129R,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 129,,0.97
+129V,Hypericum perforatum,Preparación de compuestos complejos - protocolo folio 129,,0.96
+130R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 130,,0.96
+130V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 130,,0.87
+131R,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 131,,0.95
+131V,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 131,,0.95
+132R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 132,,0.88
+132V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 132,,0.9
+133R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 133,,0.96
+133V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 133,,0.88
+134R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 134,,0.9
+134V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 134,,0.88
+135R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 135,,0.9
+135V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 135,,0.96
+136R,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 136,,0.9
+136V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 136,,0.9
+137R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 137,,0.89
+137V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 137,,0.86
+138R,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 138,,0.87
+138V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 138,,0.85
+139R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 139,,0.91
+139V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 139,,0.91
+140R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 140,,0.87
+140V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 140,,0.87
+141R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 141,,0.94
+141V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 141,,0.92
+142R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 142,,0.94
+142V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 142,,0.9
+143R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 143,,0.97
+143V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 143,,0.93
+144R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 144,,0.94
+144V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 144,,0.92
+145R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 145,,0.89
+145V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 145,,0.92
+146R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 146,,0.9
+146V,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 146,,0.94
+147R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 147,,0.93
+147V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 147,,0.9
+148R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 148,,0.89
+148V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 148,,0.91
+149R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 149,,0.93
+149V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 149,,0.91
+150R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 150,,0.94
+150V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 150,,0.91
+151R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 151,,0.94
+151V,Achillea millefolium,Salud reproductiva y ciclo menstrual - protocolo folio 151,,0.92
+152R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 152,,0.89
+152V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 152,,0.94
+153R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 153,,0.95
+153V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 153,,0.85
+154R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 154,,0.98
+154V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 154,,0.96
+155R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 155,,0.91
+155V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 155,,0.88
+156R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 156,,0.91
+156V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 156,,0.87
+157R,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 157,,0.97
+157V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 157,,0.95
+158R,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 158,,0.87
+158V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 158,,0.91
+159R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 159,,0.88
+159V,Vitex agnus-castus,Salud reproductiva y ciclo menstrual - protocolo folio 159,,0.91
+160R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 160,,0.94
+160V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 160,,0.93
+161R,Rubia tinctorum,Salud reproductiva y ciclo menstrual - protocolo folio 161,,0.93
+161V,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 161,,0.91
+162R,Cimicifuga racemosa,Salud reproductiva y ciclo menstrual - protocolo folio 162,,0.91
+162V,Angelica sinensis,Salud reproductiva y ciclo menstrual - protocolo folio 162,,0.95
+163R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 163,,0.91
+163V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 163,,0.96
+164R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 164,,0.95
+164V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 164,,0.93
+165R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 165,,0.91
+165V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 165,,0.88
+166R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 166,,0.89
+166V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 166,,0.87
+167R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 167,,0.9
+167V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 167,,0.94
+168R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 168,,0.9
+168V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 168,,0.92
+169R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 169,,0.86
+169V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 169,,0.9
+170R,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 170,,0.96
+170V,Calendula officinalis,Geometría sagrada y resonancia - protocolo folio 170,,0.91
+171R,Verbascum thapsus,Medicina astrológica - protocolo folio 171,,0.89
+171V,Verbascum thapsus,Medicina astrológica - protocolo folio 171,,0.96
+172R,Verbascum thapsus,Medicina astrológica - protocolo folio 172,,0.92
+172V,Artemisia vulgaris,Medicina astrológica - protocolo folio 172,,0.91
+173R,Verbascum thapsus,Medicina astrológica - protocolo folio 173,,0.91
+173V,Artemisia vulgaris,Medicina astrológica - protocolo folio 173,,0.9
+174R,Verbascum thapsus,Medicina astrológica - protocolo folio 174,,0.94
+174V,Verbascum thapsus,Medicina astrológica - protocolo folio 174,,0.97
+175R,Artemisia vulgaris,Medicina astrológica - protocolo folio 175,,0.97
+175V,Artemisia vulgaris,Medicina astrológica - protocolo folio 175,,0.86
+176R,Verbascum thapsus,Medicina astrológica - protocolo folio 176,,0.87
+176V,Verbascum thapsus,Medicina astrológica - protocolo folio 176,,0.87
+177R,Verbascum thapsus,Medicina astrológica - protocolo folio 177,,0.9
+177V,Artemisia vulgaris,Medicina astrológica - protocolo folio 177,,0.91
+178R,Verbascum thapsus,Medicina astrológica - protocolo folio 178,,0.95
+178V,Verbascum thapsus,Medicina astrológica - protocolo folio 178,,0.89
+179R,Verbascum thapsus,Medicina astrológica - protocolo folio 179,,0.88
+179V,Artemisia vulgaris,Medicina astrológica - protocolo folio 179,,0.91
+180R,Artemisia vulgaris,Medicina astrológica - protocolo folio 180,,0.98
+180V,Verbascum thapsus,Medicina astrológica - protocolo folio 180,,0.88
+181R,Artemisia vulgaris,Medicina astrológica - protocolo folio 181,,0.95
+181V,Artemisia vulgaris,Medicina astrológica - protocolo folio 181,,0.95
+182R,Artemisia vulgaris,Medicina astrológica - protocolo folio 182,,0.88
+182V,Artemisia vulgaris,Medicina astrológica - protocolo folio 182,,0.93
+183R,Viola odorata,Correspondencia entre abadesas - protocolo folio 183,,0.87
+183V,Viola odorata,Correspondencia entre abadesas - protocolo folio 183,,0.92
+184R,Viola odorata,Correspondencia entre abadesas - protocolo folio 184,,0.91
+184V,Borago officinalis,Correspondencia entre abadesas - protocolo folio 184,,0.95
+185R,Viola odorata,Correspondencia entre abadesas - protocolo folio 185,,0.93
+185V,Viola odorata,Correspondencia entre abadesas - protocolo folio 185,,0.95
+186R,Viola odorata,Correspondencia entre abadesas - protocolo folio 186,,0.98
+186V,Viola odorata,Correspondencia entre abadesas - protocolo folio 186,,0.93
+187R,Borago officinalis,Correspondencia entre abadesas - protocolo folio 187,,0.92
+187V,Borago officinalis,Correspondencia entre abadesas - protocolo folio 187,,0.9
+188R,Viola odorata,Correspondencia entre abadesas - protocolo folio 188,,0.86
+188V,Viola odorata,Correspondencia entre abadesas - protocolo folio 188,,0.86
+189R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 189,,0.96
+189V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 189,,0.95
+190R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 190,,0.95
+190V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 190,,0.92
+191R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 191,,0.86
+191V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 191,,0.85
+192R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 192,,0.96
+192V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 192,,0.91
+193R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 193,,0.93
+193V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 193,,0.94
+194R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 194,,0.87
+194V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 194,,0.98
+195R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 195,,0.93
+195V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 195,,0.95
+196R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 196,,0.91
+196V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 196,,0.88
+197R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 197,,0.96
+197V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 197,,0.89
+198R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 198,,0.88
+198V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 198,,0.92
+199R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 199,,0.89
+199V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 199,,0.96
+200R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 200,,0.91
+200V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 200,,0.95
+201R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 201,,0.89
+201V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 201,,0.94
+202R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 202,,0.92
+202V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 202,,0.97
+203R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 203,,0.88
+203V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 203,,0.91
+204R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 204,,0.94
+204V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 204,,0.91
+205R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 205,,0.86
+205V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 205,,0.9
+206R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 206,,0.89
+206V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 206,,0.9
+207R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 207,,0.92
+207V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 207,,0.98
+208R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 208,,0.89
+208V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 208,,0.89
+209R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 209,,0.88
+209V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 209,,0.89
+210R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 210,,0.97
+210V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 210,,0.87
+211R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 211,,0.89
+211V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 211,,0.98
+212R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 212,,0.93
+212V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 212,,0.96
+213R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 213,,0.88
+213V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 213,,0.89
+214R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 214,,0.87
+214V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 214,,0.98
+215R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 215,,0.89
+215V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 215,,0.93
+216R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 216,,0.86
+216V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 216,,0.92
+217R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 217,,0.91
+217V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 217,,0.87
+218R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 218,,0.88
+218V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 218,,0.86
+219R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 219,,0.9
+219V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 219,,0.93
+220R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 220,,0.87
+220V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 220,,0.97
+221R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 221,,0.98
+221V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 221,,0.92
+222R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 222,,0.93
+222V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 222,,0.88
+223R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 223,,0.9
+223V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 223,,0.89
+224R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 224,,0.98
+224V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 224,,0.92
+225R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 225,,0.93
+225V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 225,,0.97
+226R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 226,,0.93
+226V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 226,,0.94
+227R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 227,,0.88
+227V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 227,,0.86
+228R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 228,,0.9
+228V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 228,,0.91
+229R,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 229,,0.88
+229V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 229,,0.94
+230R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 230,,0.86
+230V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 230,,0.97
+231R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 231,,0.94
+231V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 231,,0.91
+232R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 232,,0.88
+232V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 232,,0.97
+233R,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 233,,0.86
+233V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 233,,0.95
+234R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 234,,0.95
+234V,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 234,,0.97
+235R,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 235,,0.87
+235V,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 235,,0.94
+236R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 236,,0.92
+236V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 236,,0.91
+237R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 237,,0.86
+237V,Melissa officinalis,Protocolos para enfermedades graves - protocolo folio 237,,0.95
+238R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 238,,0.88
+238V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 238,,0.88
+239R,Passiflora incarnata,Protocolos para enfermedades graves - protocolo folio 239,,0.93
+239V,Hypericum perforatum,Protocolos para enfermedades graves - protocolo folio 239,,0.98
+240R,Valeriana officinalis,Protocolos para enfermedades graves - protocolo folio 240,,0.92
+240V,Papaver somniferum,Protocolos para enfermedades graves - protocolo folio 240,,0.91
