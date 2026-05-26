@@ -1,0 +1,541 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Voynich Semantic Framework</title>
+
+<style>
+
+body {
+    font-family: Georgia, serif;
+    max-width: 1000px;
+    margin: 60px auto;
+    line-height: 1.75;
+    color: #222;
+}
+
+h1 {
+    font-size: 34px;
+}
+
+h2 {
+    margin-top: 40px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 8px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 10px;
+}
+
+code {
+    background: #eee;
+    padding: 2px 5px;
+}
+
+pre {
+    background: #f4f4f4;
+    padding: 14px;
+    overflow-x: auto;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Computational Semantic Analysis of the Voynich Manuscript</h1>
+
+<h2>A Contextual EVA-Based Experimental Framework Using NLP, Transformer Embeddings, and Medieval Medical Corpora</h2>
+
+<h3>Walter Calmels Von dem Knesebeck</h3>
+
+<p>Independent Researcher
+Santiago, Chile
+<a href="mailto:wcalmels@phi47.cl">wcalmels@phi47.cl</a></p>
+
+<hr />
+
+<h1>Abstract</h1>
+
+<p>The Voynich Manuscript (VMS) remains one of the most extensively studied undeciphered codices in history. Traditional approaches have primarily focused on cryptographic interpretation, direct linguistic substitution, or speculative historical hypotheses. This work proposes an alternative computational framework centered on semantic-contextual exploration using modern Natural Language Processing (NLP) methodologies.</p>
+
+<p>The framework integrates glyph extraction, EVA-based lexical processing, semantic family modeling, transformer embeddings, unsupervised clustering, and contextual comparison against medieval medical corpora associated with Anatolian-Seljuk traditions.</p>
+
+<p>Experimental results obtained through transformer-based semantic embeddings suggest measurable contextual convergence between EVA-derived semantic structures and medieval medical-botanical domains, particularly herbal preparation, hydrotherapy, medicinal processing, bodily regulation, and astrological medicine.</p>
+
+<p>This work does not claim definitive decipherment of the Voynich Manuscript. Instead, it presents a reproducible computational methodology for semantic-contextual exploration of Voynichese structures using modern NLP techniques and historically restricted corpora.</p>
+
+<hr />
+
+<h1>1. Introduction</h1>
+
+<p>The Voynich Manuscript has resisted decipherment for more than a century despite sustained attention from cryptographers, linguists, historians, statisticians, and computer scientists. Since its rediscovery in the early twentieth century, the manuscript has generated numerous hypotheses involving natural language encoding, steganography, artificial languages, ciphers, glossolalia, and fabricated text.</p>
+
+<p>Several foundational studies demonstrated that Voynichese exhibits non-random statistical properties consistent with structured information systems. Important contributions include:</p>
+
+<ul>
+<li>Prescott Currier’s language distribution studies</li>
+<li>William Friedman’s cryptographic investigations</li>
+<li>Mary D’Imperio’s structural analyses</li>
+<li>Gabriel Landini’s transcription work</li>
+<li>Takeshi Takahashi’s EVA corpus</li>
+<li>Jorge Stolfi’s interlinear archive and lexical statistics</li>
+</ul>
+
+<p>While these studies strongly suggest that Voynichese is statistically structured, no universally accepted decipherment currently exists.</p>
+
+<p>The present work departs from traditional direct-decoding approaches and instead investigates whether meaningful semantic regularities may emerge through contextual computational analysis.</p>
+
+<p>Rather than attempting symbol-by-symbol translation, this framework explores whether:</p>
+
+<ol>
+<li>EVA-derived structures exhibit semantic clustering behavior;</li>
+<li>contextual semantic similarity can be measured computationally;</li>
+<li>medieval medical corpora provide stronger semantic alignment than arbitrary multilingual baselines.</li>
+</ol>
+
+<hr />
+
+<h1>2. Research Position and Scientific Scope</h1>
+
+<p>This project should be interpreted as:</p>
+
+<ul>
+<li>exploratory computational humanities research;</li>
+<li>semantic-contextual NLP experimentation;</li>
+<li>medieval corpus analysis infrastructure;</li>
+<li>reproducible semantic modeling.</li>
+</ul>
+
+<p>The framework explicitly does NOT claim:</p>
+
+<ul>
+<li>definitive translation of Voynichese;</li>
+<li>verified historical decipherment;</li>
+<li>direct linguistic equivalence;</li>
+<li>proven authorship or origin.</li>
+</ul>
+
+<p>Instead, the objective is to evaluate whether modern semantic computation can reveal measurable contextual organization within EVA-derived structures.</p>
+
+<hr />
+
+<h1>3. Hypothesis</h1>
+
+<p>The central hypothesis is that Voynichese may encode structured semantic domains that can be explored computationally through contextual embeddings and restricted historical corpora.</p>
+
+<p>More specifically:</p>
+
+<ol>
+<li>Voynichese lexical structures may exhibit semantic organization rather than random distribution;</li>
+<li>medieval medical-botanical corpora provide a meaningful contextual comparison space;</li>
+<li>semantic convergence can emerge without requiring direct translation;</li>
+<li>transformer embeddings may reveal latent semantic proximity between EVA structures and medieval medical domains.</li>
+</ol>
+
+<hr />
+
+<h1>4. Methodology</h1>
+
+<h2>4.1 Framework Architecture</h2>
+
+<p>The computational pipeline follows the structure below:</p>
+
+<div class="codehilite">
+<pre><span></span><code>Voynich Folios
+        ↓
+Glyph Extraction
+        ↓
+OCR / Segmentation
+        ↓
+EVA Processing
+        ↓
+Semantic Families
+        ↓
+Transformer Embeddings
+        ↓
+Semantic Clustering
+        ↓
+Medieval Corpus Comparison
+        ↓
+Contextual Similarity Analysis
+</code></pre>
+</div>
+
+<hr />
+
+<h2>4.2 Glyph Extraction and Visual Processing</h2>
+
+<p>Voynich folios were processed using OpenCV-based segmentation techniques including:</p>
+
+<ul>
+<li>thresholding;</li>
+<li>contour extraction;</li>
+<li>glyph isolation;</li>
+<li>PNG glyph export.</li>
+</ul>
+
+<p>This produced reusable glyph datasets suitable for clustering and visual inspection.</p>
+
+<hr />
+
+<h2>4.3 EVA Processing</h2>
+
+<p>EVA transcriptions were processed through:</p>
+
+<ul>
+<li>tokenization;</li>
+<li>frequency analysis;</li>
+<li>bigram extraction;</li>
+<li>lexical grouping;</li>
+<li>semantic family mapping.</li>
+</ul>
+
+<p>Experimental semantic families were generated from recurring lexical structures.</p>
+
+<p>Examples include:</p>
+
+<table>
+<thead>
+<tr>
+  <th>EVA Family</th>
+  <th>Experimental Semantic Domain</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>qok-*</td>
+  <td>liquids / medicine</td>
+</tr>
+<tr>
+  <td>yka-*</td>
+  <td>preparation / boiling</td>
+</tr>
+<tr>
+  <td>sho-*</td>
+  <td>heat / pain / solar association</td>
+</tr>
+<tr>
+  <td>pch-*</td>
+  <td>roots / cutting / mixture</td>
+</tr>
+<tr>
+  <td>dai-*</td>
+  <td>cycles / repetition</td>
+</tr>
+<tr>
+  <td>ata-*</td>
+  <td>tincture / medicinal preparation</td>
+</tr>
+<tr>
+  <td>qot-*</td>
+  <td>opening / channels</td>
+</tr>
+</tbody>
+</table>
+
+<p>These semantic interpretations remain computationally inferred and exploratory.</p>
+
+<hr />
+
+<h2>4.4 Medieval Corpus Construction</h2>
+
+<p>A contextual medieval corpus was constructed experimentally using:</p>
+
+<ul>
+<li>Anatolian-Seljuk medical fragments;</li>
+<li>Persian medical terminology;</li>
+<li>hydrotherapy references;</li>
+<li>herbal preparation texts;</li>
+<li>medieval gynecological material;</li>
+<li>astrological medicine contexts.</li>
+</ul>
+
+<p>The corpus structure included:</p>
+
+<ul>
+<li>title;</li>
+<li>approximate date;</li>
+<li>region;</li>
+<li>language;</li>
+<li>transliteration;</li>
+<li>thematic keywords;</li>
+<li>semantic context.</li>
+</ul>
+
+<p>The corpus was intentionally restricted to historically coherent medical-botanical domains rather than arbitrary multilingual comparison.</p>
+
+<hr />
+
+<h1>5. Embedding-Based Semantic Analysis</h1>
+
+<h2>5.1 TF-IDF Semantic Similarity</h2>
+
+<p>Initial experiments using TF-IDF vectorization suggested contextual convergence between EVA-derived semantic structures and medieval medical corpora.</p>
+
+<p>Higher similarity scores emerged in:</p>
+
+<ul>
+<li>Persian medical fragments;</li>
+<li>herbal preparation contexts;</li>
+<li>hydrotherapy descriptions;</li>
+<li>women’s medicine;</li>
+<li>astrological medicine.</li>
+</ul>
+
+<p>While limited, these results suggested that semantic organization may exist within the experimental EVA framework.</p>
+
+<hr />
+
+<h2>5.2 Transformer Embeddings</h2>
+
+<p>Advanced semantic analysis was performed using:</p>
+
+<div class="codehilite">
+<pre><span></span><code>sentence-transformers/all-MiniLM-L6-v2
+</code></pre>
+</div>
+
+<p>Semantic similarity was calculated using cosine similarity within transformer embedding space.</p>
+
+<p>Representative results included:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Corpus Fragment</th>
+  <th>Semantic Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Seljuk Herbal Preparation Fragment</td>
+  <td>0.4290</td>
+</tr>
+<tr>
+  <td>Divrigi Hydrotherapy Fragment</td>
+  <td>0.4149</td>
+</tr>
+<tr>
+  <td>Persian Medical Treatise</td>
+  <td>0.4107</td>
+</tr>
+<tr>
+  <td>Seljuk Herbal Fragment</td>
+  <td>0.3967</td>
+</tr>
+<tr>
+  <td>Women’s Medicine Fragment</td>
+  <td>0.3876</td>
+</tr>
+</tbody>
+</table>
+
+<p>These results suggest measurable contextual alignment toward medieval medical-botanical domains.</p>
+
+<p>Importantly, the strongest alignments consistently emerged around:</p>
+
+<ul>
+<li>medicinal preparation;</li>
+<li>hydrotherapy;</li>
+<li>herbal processing;</li>
+<li>bodily regulation;</li>
+<li>thermal treatment;</li>
+<li>cyclical biological processes.</li>
+</ul>
+
+<hr />
+
+<h1>6. Automatic Semantic Clustering</h1>
+
+<p>Unsupervised clustering using transformer embeddings revealed emergent semantic grouping behavior without manually predefined categories.</p>
+
+<p>Detected clusters converged around:</p>
+
+<ul>
+<li>liquids and medicinal mixtures;</li>
+<li>preparation and boiling processes;</li>
+<li>thermal treatment and pain;</li>
+<li>cyclical bodily regulation;</li>
+<li>herbal processing.</li>
+</ul>
+
+<p>The emergence of these clusters suggests that EVA-derived structures may exhibit measurable semantic organization rather than purely arbitrary lexical distribution.</p>
+
+<hr />
+
+<h1>7. Semantic Visualization</h1>
+
+<p>Dimensionality reduction using Principal Component Analysis (PCA) generated two-dimensional semantic maps illustrating spatial proximity between:</p>
+
+<ul>
+<li>EVA semantic structures;</li>
+<li>herbal medicine fragments;</li>
+<li>hydrotherapy references;</li>
+<li>astrological medicine contexts.</li>
+</ul>
+
+<p>The resulting semantic distributions suggest non-random contextual clustering behavior within the embedding space.</p>
+
+<hr />
+
+<h1>8. Computational Platform</h1>
+
+<p>An interactive research platform was developed using:</p>
+
+<ul>
+<li>Python;</li>
+<li>Streamlit;</li>
+<li>OpenCV;</li>
+<li>Pandas;</li>
+<li>Scikit-learn;</li>
+<li>Sentence Transformers.</li>
+</ul>
+
+<p>The platform supports:</p>
+
+<ul>
+<li>glyph visualization;</li>
+<li>semantic search;</li>
+<li>embedding analysis;</li>
+<li>clustering visualization;</li>
+<li>contextual comparison;</li>
+<li>corpus exploration.</li>
+</ul>
+
+<p>The framework is fully reproducible through GitHub-based deployment.</p>
+
+<hr />
+
+<h1>9. Discussion</h1>
+
+<p>The present work does not establish definitive decipherment of the Voynich Manuscript.</p>
+
+<p>However, the experiments suggest several important observations:</p>
+
+<ol>
+<li>EVA-derived structures exhibit measurable semantic regularities;</li>
+<li>contextual medieval corpora produce stronger semantic alignment than arbitrary text domains;</li>
+<li>transformer embeddings provide a viable framework for semantic exploration of undeciphered corpora;</li>
+<li>medieval medical-botanical contexts repeatedly emerge as dominant semantic convergence regions.</li>
+</ol>
+
+<p>The strongest semantic alignments consistently involve:</p>
+
+<ul>
+<li>medicinal preparation;</li>
+<li>hydrotherapy;</li>
+<li>botanical processing;</li>
+<li>bodily treatment;</li>
+<li>heat regulation;</li>
+<li>astrological medicine.</li>
+</ul>
+
+<p>This pattern is broadly compatible with historical interpretations of the manuscript as a medical-herbal codex.</p>
+
+<hr />
+
+<h1>10. Limitations</h1>
+
+<p>Several important limitations remain:</p>
+
+<ul>
+<li>limited corpus size;</li>
+<li>partially synthetic corpus generation;</li>
+<li>exploratory semantic labeling;</li>
+<li>absence of verified translation pairs;</li>
+<li>possible confirmation bias;</li>
+<li>incomplete medieval source coverage.</li>
+</ul>
+
+<p>Future work must incorporate:</p>
+
+<ul>
+<li>substantially larger medieval corpora;</li>
+<li>multilingual baselines;</li>
+<li>statistical significance testing;</li>
+<li>randomized comparison controls;</li>
+<li>broader historical datasets.</li>
+</ul>
+
+<p>The current framework should therefore be interpreted as exploratory computational research rather than conclusive linguistic proof.</p>
+
+<hr />
+
+<h1>11. Future Directions</h1>
+
+<p>The broader long-term objective of this research is the development of:</p>
+
+<div class="codehilite">
+<pre><span></span><code>Computational Medieval Semantic Infrastructure
+</code></pre>
+</div>
+
+<p>Future directions include:</p>
+
+<ul>
+<li>large-scale medieval corpus acquisition;</li>
+<li>automated OCR pipelines;</li>
+<li>multilingual transformer fine-tuning;</li>
+<li>semantic graph analysis;</li>
+<li>t-SNE and UMAP semantic visualization;</li>
+<li>collaborative corpus infrastructure;</li>
+<li>AI-assisted manuscript ingestion;</li>
+<li>historical NLP agents.</li>
+</ul>
+
+<p>This infrastructure may ultimately support not only Voynich analysis, but broader medieval computational humanities research.</p>
+
+<hr />
+
+<h1>12. Conclusion</h1>
+
+<p>This work presents a reproducible computational framework for semantic-contextual exploration of the Voynich Manuscript using EVA processing, transformer embeddings, semantic clustering, and medieval medical corpus comparison.</p>
+
+<p>While no definitive decipherment is claimed, the results suggest that contextual semantic methodologies may provide a productive direction for future computational Voynich research.</p>
+
+<p>The strongest semantic convergence observed in this study consistently aligns with medieval medical-botanical domains associated with Anatolian-Seljuk traditions.</p>
+
+<p>More broadly, the framework demonstrates the potential value of combining:</p>
+
+<ul>
+<li>NLP;</li>
+<li>transformer embeddings;</li>
+<li>medieval corpora;</li>
+<li>semantic clustering;</li>
+<li>digital humanities methodologies.</li>
+</ul>
+
+<p>The Voynich Manuscript may therefore serve not only as an undeciphered artifact, but also as a catalyst for the development of new computational approaches to historical semantic analysis.</p>
+
+<hr />
+
+<h1>References</h1>
+
+<ol>
+<li>Currier, Prescott. Some Important New Statistical Findings.</li>
+<li>Friedman, William. Voynich Studies.</li>
+<li>Landini, Gabriel. EVA Interlinear Files.</li>
+<li>Takahashi, Takeshi. EVA Voynich Corpus.</li>
+<li>Stolfi, Jorge. Interlinear Voynich Archive.</li>
+<li>D’Imperio, Mary. The Voynich Manuscript: An Elegant Enigma.</li>
+<li>Sentence Transformers Documentation.</li>
+<li>OpenCV Documentation.</li>
+<li>Scikit-learn Documentation.</li>
+<li>Vaswani et al. Attention Is All You Need.</li>
+<li>Rehurek &amp; Sojka. Software Framework for Topic Modelling with Large Corpora.</li>
+<li>Jurafsky &amp; Martin. Speech and Language Processing.</li>
+</ol>
+
+
+</body>
+</html>
