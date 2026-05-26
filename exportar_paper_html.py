@@ -1,7 +1,7 @@
 import markdown2
 
-INPUT_MD = "paper_v3.md"
-OUTPUT_HTML = "paper_v3.html"
+INPUT_MD = "paper_v4.md"
+OUTPUT_HTML = "paper_v4.html"
 
 with open(INPUT_MD, "r", encoding="utf-8") as f:
     markdown_text = f.read()
