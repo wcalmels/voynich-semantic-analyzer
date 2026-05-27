@@ -555,19 +555,44 @@ This will include:
 
 # 20. Conclusion
 
-This paper presents an integrated framework combining historical hypothesis modeling and computational semantic analysis for the Voynich Manuscript.
+# Conclusion
 
-The historical layer suggests that the manuscript may be consistent with an Anatolian-Islamic medical context, especially when botanical, structural, pharmacological, and statistical evidence are considered together.
+This work presented an experimental computational framework for contextual semantic exploration of the Voynich Manuscript using transformer embeddings, semantic clustering, medieval corpus comparison and interdisciplinary digital humanities methodologies.
 
-The computational layer demonstrates that EVA-derived semantic structures can be processed through modern NLP, transformer embeddings, clustering, and corpus comparison to produce measurable contextual convergence with medieval medical-botanical domains.
+The proposed framework integrates:
 
-No definitive decipherment is claimed.
+- EVA symbolic processing
+- transformer-based semantic embeddings
+- contextual similarity analysis
+- semantic clustering
+- medieval thematic corpora
+- visualization infrastructure
+- reproducible NLP pipelines
 
-The contribution is instead a reproducible semantic-contextual framework that can be expanded through larger medieval corpora and applied to other undeciphered or partially understood symbolic systems.
+Experimental results demonstrated the emergence of coherent contextual relationships between multiple medieval thematic domains, particularly involving:
 
-The Voynich Manuscript may therefore serve not only as an unresolved historical artifact, but also as a catalyst for the development of computational medieval semantic infrastructure.
+- herbal medicine
+- hydrotherapy
+- gynecological terminology
+- astrological-medical concepts
 
----
+Real multidimensional embeddings generated interpretable semantic proximity patterns and non-trivial clustering structures across the experimental corpus.
+
+Importantly, the framework does not claim definitive decipherment of the Voynich Manuscript. Instead, it proposes a reproducible computational infrastructure for exploratory semantic analysis of partially unknown symbolic systems.
+
+The project further demonstrates that modern NLP methodologies, transformer embeddings and interdisciplinary contextual corpora can contribute meaningfully to historical manuscript exploration without requiring deterministic translation assumptions.
+
+Beyond Voynich studies, the framework may provide a foundation for broader computational approaches to:
+
+- historical symbolic systems
+- undeciphered manuscripts
+- interdisciplinary semantic reconstruction
+- contextual manuscript analysis
+- digital humanities infrastructure
+
+Future work will focus on larger multilingual corpora, multimodal manuscript analysis, transformer benchmarking, graph-based semantic representations and interactive visualization systems.
+
+The present framework should therefore be interpreted as an extensible computational research platform rather than a finalized linguistic solution.
 
 # References
 
