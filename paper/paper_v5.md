@@ -96,14 +96,26 @@ All experiments were executed using publicly available NLP libraries and transfo
 
 ## Contributions
 
-This work contributes:
+This work contributes the following:
 
-1. A reproducible semantic analysis framework for exploratory Voynich research.
-2. Integration of transformer embeddings with medieval corpus comparison.
-3. Semantic clustering methodologies for EVA-derived symbolic structures.
-4. Visual embedding-space analysis for contextual exploration.
-5. An extensible infrastructure for historical manuscript computational analysis.
----
+1. A reproducible computational framework for exploratory semantic analysis of the Voynich Manuscript.
+
+2. Integration of transformer-based semantic embeddings with medieval thematic corpora for contextual manuscript exploration.
+
+3. A semantic clustering infrastructure for EVA-derived symbolic structures using modern NLP methodologies.
+
+4. A visualization pipeline for embedding-space projection and contextual semantic analysis.
+
+5. Quantitative similarity analysis using multidimensional sentence-transformer embeddings.
+
+6. An extensible interdisciplinary digital humanities platform combining:
+   - computational philology
+   - historical NLP
+   - medieval corpus analysis
+   - semantic embeddings
+   - contextual reconstruction methodologies
+
+7. A publicly archived and reproducible research repository with DOI-based scientific versioning through Zenodo.
 
 # 2. Research Position and Scope
 
@@ -552,6 +564,29 @@ This will include:
 * large-scale comparison against Voynich and other symbolic systems.
 
 ---
+# Research Significance
+
+The significance of this framework lies not in claims of definitive decipherment, but in the demonstration that modern NLP methodologies can be applied to historical symbolic systems through contextual and interdisciplinary semantic infrastructure.
+
+The project suggests that partially unknown symbolic corpora may still exhibit computationally detectable semantic organization when analyzed through:
+
+- transformer embeddings
+- contextual similarity analysis
+- thematic clustering
+- interdisciplinary corpora
+- embedding-space projection
+
+This approach differs substantially from purely cryptographic or substitution-based decipherment methodologies.
+
+The framework further contributes to the broader development of computational digital humanities methodologies applicable to:
+
+- undeciphered manuscripts
+- symbolic systems
+- historical corpora
+- semantic reconstruction
+- contextual manuscript analysis
+
+The combination of reproducibility, public datasets, semantic embeddings and interdisciplinary corpora provides a foundation for future experimental research in historical NLP and computational philology.
 
 # 20. Conclusion
 
