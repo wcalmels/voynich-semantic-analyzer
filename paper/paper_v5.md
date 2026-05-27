@@ -53,6 +53,47 @@ The present work proposes that the strongest research path is not immediate lite
 
 The manuscript is treated not as an isolated cryptogram, but as a possible historical medical-text artifact whose semantic structure may become partially measurable through contextual resonance with relevant medieval corpora.
 
+## Related Work
+
+Previous computational studies of the Voynich Manuscript have explored:
+
+- statistical linguistic structure
+- entropy analysis
+- symbolic recurrence
+- lexical distribution
+- cryptographic hypothesis testing
+- contextual co-occurrence patterns
+
+Notable prior work includes the statistical analyses of Landini (2001), contextual keyword analysis by Montemurro & Zanette (2013), and the EVA transliteration framework by Takahashi.
+
+Unlike traditional decipherment-oriented approaches, the present framework emphasizes contextual semantic infrastructure, transformer embeddings and interdisciplinary digital humanities methodologies.
+
+The proposed system focuses on exploratory semantic clustering rather than deterministic translation.
+
+---
+
+## Reproducibility
+
+All experiments presented in this paper are reproducible using the public repository and datasets archived through Zenodo.
+
+Repository:
+https://github.com/wcalmels/voynich-semantic-analyzer
+
+DOI:
+https://doi.org/10.5281/zenodo.20413096
+
+The repository includes:
+
+- datasets
+- semantic embeddings
+- visualization scripts
+- clustering outputs
+- experimental pipelines
+- research figures
+- reproducible Python scripts
+
+All experiments were executed using publicly available NLP libraries and transformer models.
+
 ## Contributions
 
 This work contributes:
@@ -416,6 +457,44 @@ The strongest current convergence appears around:
 * astrological medical contexts.
 
 This does not prove the manuscript’s origin, but it justifies deeper investigation using larger medieval corpora.
+
+# Discussion
+
+The experimental results suggest that transformer-based semantic embeddings can identify coherent contextual relationships across medieval thematic domains within the constructed corpus.
+
+Particularly notable is the emergence of stable semantic proximity between:
+
+- herbal preparation fragments
+- hydrotherapy references
+- astrological-medical concepts
+- gynecological terminology
+
+These relationships appear consistently within embedding-space projections and cosine similarity analysis.
+
+Importantly, the framework does not interpret these results as evidence of definitive decipherment. Instead, the findings support the hypothesis that contextual semantic structures may be computationally detectable even in partially unknown symbolic systems when analyzed through interdisciplinary corpora and modern NLP methodologies.
+
+The results also demonstrate the importance of contextual reconstruction over isolated lexical substitution approaches.
+
+Traditional decipherment methodologies frequently assume direct linguistic equivalence, whereas the present framework emphasizes:
+
+- semantic proximity
+- contextual clustering
+- thematic recurrence
+- interdisciplinary semantic mapping
+
+The integration of medieval medical corpora, botanical terminology and astrological references appears particularly relevant given the known iconographic characteristics of the Voynich Manuscript.
+
+However, substantial uncertainty remains regarding:
+
+- manuscript origin
+- symbolic encoding mechanisms
+- linguistic substrate
+- transliteration fidelity
+- semantic ambiguity
+
+Consequently, all results should be interpreted as exploratory computational observations rather than historical conclusions.
+
+The broader significance of the framework may extend beyond Voynich studies into general computational methodologies for historical manuscript analysis, symbolic systems and interdisciplinary semantic reconstruction.
 
 ---
 
