@@ -784,7 +784,11 @@ Initial embedding-space experiments suggest contextual convergence between EVA-d
 ![Figure 3. Semantic cluster summary.](../visualizations/semantic_cluster_summary.png)
 Semantic clustering experiments demonstrated the emergence of recurrent contextual families within EVA token distributions.
 
+### Figure 4. Framework Architecture
 
+![Framework Architecture](../visualizations/framework_architecture.png)
+
+The proposed framework integrates symbolic preprocessing, semantic embeddings, contextual clustering and interdisciplinary medieval corpora comparison into a reproducible NLP-based exploratory infrastructure.
 
 
 Transformer-based embeddings produced stronger contextual grouping stability compared to traditional frequency-only approaches.
