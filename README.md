@@ -1,17 +1,30 @@
+﻿Sí. En PowerShell, dentro de:
+
+`powershell
+C:\Users\wcalm\voynich_project
+`
+
+ejecuta este bloque completo:
+
+``powershell
+@"
 # 🔓 Voynich Semantic Analyzer
 
-# Voynich Semantic Analyzer
-## A Computational Semantic Framework for Exploratory Voynich Manuscript Analysis
+## A Semantic, Astronomical and Botanical Analysis Framework for the Voynich Manuscript
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20413096.svg)](https://doi.org/10.5281/zenodo.20413096)
+
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-orange)
+
+DOI: https://doi.org/10.5281/zenodo.20413096
 
 ### Walter Calmels Von dem Knesebeck
 Independent Researcher  
 Santiago, Chile  
 wcalmels@phi47.cl
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20413096.svg)](https://doi.org/10.5281/zenodo.20413096)
-
-DOI: https://doi.org/10.5281/zenodo.20413096
 ---
 
 # Overview
@@ -26,14 +39,11 @@ Voynich Semantic Analyzer is an experimental computational framework for context
 - NLP pipelines
 - contextual visualization
 
-The framework integrates:
+## Abstract
 
-- computer vision
-- computational linguistics
-- digital humanities
-- semantic embeddings
-- medieval medical corpora
-- unsupervised clustering
+This project presents an experimental computational framework for contextual semantic analysis of the Voynich Manuscript using transformer embeddings, semantic clustering, medieval corpora comparison and interdisciplinary digital humanities methodologies.
+
+The framework explores relationships between EVA-derived symbolic structures and medieval medical, botanical and astronomical corpora through reproducible NLP pipelines and visualization techniques.
 
 ---
 
@@ -41,12 +51,7 @@ The framework integrates:
 
 This project does NOT claim definitive decipherment of the Voynich Manuscript.
 
-The framework is intended as:
-
-- exploratory computational research
-- semantic-contextual analysis
-- experimental NLP methodology
-- digital humanities infrastructure
+The framework is intended as exploratory computational research, semantic-contextual analysis, experimental NLP methodology and digital humanities infrastructure.
 
 All semantic interpretations remain hypothetical and computationally inferred.
 
@@ -54,7 +59,7 @@ All semantic interpretations remain hypothetical and computationally inferred.
 
 # Core Pipeline
 
-```text
+`	ext
 Voynich Folios
         ↓
 Glyph Extraction
@@ -72,7 +77,7 @@ Semantic Clustering
 Medieval Corpus Comparison
         ↓
 Contextual Similarity Analysis
-```
+``
 
 ---
 
@@ -80,48 +85,52 @@ Contextual Similarity Analysis
 
 ## EVA Processing
 
-- tokenization
-- bigram analysis
-- semantic families
-- lexical analysis
+* tokenization
+* bigram analysis
+* semantic families
+* lexical analysis
 
 ## NLP & Embeddings
 
-- TF-IDF embeddings
-- sentence-transformers embeddings
-- cosine similarity
-- semantic comparison
+* TF-IDF embeddings
+* sentence-transformers embeddings
+* cosine similarity
+* semantic comparison
 
 ## Semantic Clustering
 
-- automatic clustering
-- unsupervised grouping
-- semantic vector analysis
+* automatic clustering
+* unsupervised grouping
+* semantic vector analysis
 
 ## Visualization
 
-- PCA semantic maps
-- 2D embeddings visualization
-- semantic cluster display
+* PCA semantic maps
+* 2D embeddings visualization
+* semantic cluster display
+
+## Semantic Embedding Visualization
+
+![Embedding Map](visualizations/mapa_embeddings_2d.png)
 
 ## Medieval Corpus
 
-- Anatolian-Seljuk corpus
-- Persian medical fragments
-- hydrotherapy
-- herbal preparation
-- astrological medicine
+* Anatolian-Seljuk corpus
+* Persian medical fragments
+* hydrotherapy
+* herbal preparation
+* astrological medicine
 
 ## Interactive Platform
 
 Built using:
 
-- Python
-- Streamlit
-- OpenCV
-- Pandas
-- Scikit-learn
-- Sentence Transformers
+* Python
+* Streamlit
+* OpenCV
+* Pandas
+* Scikit-learn
+* Sentence Transformers
 
 ---
 
@@ -129,57 +138,57 @@ Built using:
 
 ## Clone Repository
 
-```bash
+`ash
 git clone https://github.com/wcalmels/voynich-semantic-analyzer.git
 cd voynich-semantic-analyzer
-```
+`
 
 ## Create Virtual Environment
 
-```bash
+`ash
 python -m venv venv
-```
+`
 
 ## Activate Environment
 
 ### Windows
 
-```bash
+`ash
 .\venv\Scripts\Activate.ps1
-```
+`
 
 ## Install Dependencies
 
-```bash
+`ash
 pip install -r requirements.txt
-```
+`
 
 ---
 
 # Run Platform
 
-```bash
-streamlit run app_voynich.py
-```
+`ash
+streamlit run src/app_voynich.py
+`
 
 Open:
 
-```text
+`	ext
 http://localhost:8501
-```
+`
 
 ---
 
 # Experimental Results
 
-Current transformer embedding analysis suggests stronger contextual convergence between EVA-derived semantic structures and:
+Current transformer embedding analysis suggests contextual convergence between EVA-derived semantic structures and:
 
-- herbal medicine
-- hydrotherapy
-- medicinal preparation
-- bodily processes
-- medieval gynecology
-- astrological medicine
+* herbal medicine
+* hydrotherapy
+* medicinal preparation
+* bodily processes
+* medieval gynecology
+* astrological medicine
 
 ---
 
@@ -187,62 +196,76 @@ Current transformer embedding analysis suggests stronger contextual convergence 
 
 The framework should be interpreted as:
 
-- computational semantic exploration
-- contextual clustering methodology
-- medieval semantic infrastructure prototype
-- experimental NLP system
+* computational semantic exploration
+* contextual clustering methodology
+* medieval semantic infrastructure prototype
+* experimental NLP system
 
 and NOT as:
 
-- definitive translation
-- proven decipherment
-- historically verified linguistic decoding
+* definitive translation
+* proven decipherment
+* historically verified linguistic decoding
+
+---
+
+# Research Domains
+
+* Computational Philology
+* Historical NLP
+* Medieval Linguistics
+* Digital Humanities
+* Semantic Embeddings
+* Botanical Analysis
+* Astronomical Symbolism
+
+---
+
+# Reproducibility
+
+All experiments included in this repository are designed to be reproducible using the provided datasets and scripts.
 
 ---
 
 # Roadmap
 
-## Stage 1 — Voynich Framework
-
-- [x] EVA processing
-- [x] transformer embeddings
-- [x] semantic clustering
-- [x] PCA visualization
-- [x] Streamlit platform
-- [x] experimental paper
-
-## Stage 2 — Medieval Semantic Corpus Infrastructure
-
-- [ ] large-scale medieval corpus
-- [ ] collaborative uploads
-- [ ] OCR pipelines
-- [ ] multilingual embeddings
-- [ ] semantic search engine
-- [ ] AI corpus agents
+* [x] Initial semantic framework
+* [x] Medieval corpus integration
+* [x] Embedding analysis
+* [x] Zenodo DOI publication
+* [ ] Transformer benchmarking
+* [ ] Astronomical symbol mapping
+* [ ] Botanical correlation engine
+* [ ] Multimodal manuscript analysis
+* [ ] Interactive web visualization
 
 ---
 
 # License
 
 ## Code
+
 MIT License
 
 ## Paper & Research
+
 CC-BY 4.0
+
+---
+
+# Citation
+
+If you use this repository in academic work, please cite:
+
+Walter Calmels Von dem Knesebeck.
+Voynich Semantic Analyzer v1.0.1.
+Zenodo (2026).
+
+DOI: [https://doi.org/10.5281/zenodo.20413096](https://doi.org/10.5281/zenodo.20413096)
 
 ---
 
 # Contact
 
-Walter Calmels Von dem Knesebeck  
-wcalmels@phi47.cl
-Zenodo synchronization update.
-## Citation
-
-If you use this repository in academic work, please cite:
-
-Calmels Von dem Knesebeck, Walter.
-*Voynich Semantic Analyzer v1.0.1*.
-Zenodo (2026).
-
-DOI: https://doi.org/10.5281/zenodo.20413096
+Walter Calmels Von dem Knesebeck
+[wcalmels@phi47.cl](mailto:wcalmels@phi47.cl)
