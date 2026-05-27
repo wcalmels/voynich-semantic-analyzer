@@ -769,11 +769,17 @@ Initial embedding-space experiments suggest contextual convergence between EVA-d
 
 ## Semantic Embedding Projection
 
+### Figure 1. Semantic Embedding Projection
+
 ![Figure 1. Semantic embedding projection.](../visualizations/semantic_embedding_projection.png)
 
 ## EVA Frequency Distribution
 
+### Figure 2. EVA Frequency Distribution
+
 ![Figure 2. EVA frequency distribution.](../visualizations/eva_frequency_distribution.png)
+
+### Figure 3. Semantic Cluster Summary
 
 ![Figure 3. Semantic cluster summary.](../visualizations/semantic_cluster_summary.png)
 Semantic clustering experiments demonstrated the emergence of recurrent contextual families within EVA token distributions.
@@ -795,15 +801,21 @@ Experimental semantic similarity analysis produced the following observations:
 - astrological-medical fragments demonstrated consistent contextual proximity
 - contextual clustering remained semantically interpretable across medieval thematic domains
 
-Top semantic similarity pairs included:
+### Table 1. Top Semantic Similarity Relationships
 
-| Fragment Pair | Cosine Similarity |
-|---|---|
-| Seljuk Herbal Preparation Fragment ↔ Seljuk Herbal Fragment | 0.8699 |
-| Astrological Healing Notes ↔ Astrological Medicine Lunar Fragment | 0.7078 |
-| Persian Medical Treatise ↔ Persian Gynecological Note | 0.5513 |
+| Fragment A | Fragment B | Cosine Similarity |
+|---|---|---|
+| Seljuk Herbal Preparation Fragment | Seljuk Herbal Fragment | 0.8699 |
+| Astrological Healing Notes | Astrological Medicine Lunar Fragment | 0.7078 |
+| Seljuk Women's Medicine Fragment | Seljuk Herbal Preparation Fragment | 0.5931 |
+| Persian Medical Treatise | Persian Gynecological Note | 0.5513 |
+| Divrigi Darussifa Hydrotherapy Fragment | Seljuk Herbal Fragment | 0.5113 |
 
-These results suggest the presence of non-random contextual semantic structure within the experimental corpus relationships.
+The strongest semantic relationships emerged within coherent thematic domains associated with medieval herbal medicine, hydrotherapy and astrological-medical concepts.
+
+These results suggest the presence of stable contextual semantic structures within the experimental corpus relationships generated through multidimensional transformer embeddings.
+
+
 
 However, the framework remains exploratory and does not establish definitive linguistic translation.
 ---
@@ -879,3 +891,33 @@ While the framework does not claim definitive decipherment, it establishes a com
 4. Vaswani, A. et al. (2017). Attention Is All You Need.
 5. Devlin, J. et al. (2018). BERT: Pre-training of Deep Bidirectional Transformers.
 6. Jurafsky, D., & Martin, J. Speech and Language Processing.
+
+# Appendix A. Experimental Infrastructure
+
+## Environment
+
+- Python 3.11
+- sentence-transformers
+- scikit-learn
+- pandas
+- matplotlib
+- Streamlit
+
+## Embedding Model
+
+The framework used the `all-MiniLM-L6-v2` sentence-transformer model for multidimensional semantic embedding generation.
+
+Embedding dimensionality:
+- 384 dimensions
+
+## Repository Structure
+
+- `datasets/`
+- `src/`
+- `paper/`
+- `visualizations/`
+- `docs/`
+
+## Reproducibility
+
+All datasets, scripts and visualizations are publicly available through the GitHub repository and Zenodo DOI archive.
