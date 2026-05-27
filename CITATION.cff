@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.1
 title: "Voynich Semantic Analyzer"
 message: "If you use this repository, please cite this work."
 type: software
@@ -7,5 +7,6 @@ authors:
     given-names: "Walter"
 repository-code: "https://github.com/wcalmels/voynich-semantic-analyzer"
 license: MIT
-version: 1.1
+version: 1.o.1
 date-released: 2026-05-26
+doi: 10.5281/zenodo.20413096

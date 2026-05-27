@@ -8,6 +8,10 @@ Independent Researcher
 Santiago, Chile  
 wcalmels@phi47.cl
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20413096.svg)](https://doi.org/10.5281/zenodo.20413096)
+
+DOI: https://doi.org/10.5281/zenodo.20413096
 ---
 
 # Overview
@@ -233,3 +237,12 @@ CC-BY 4.0
 Walter Calmels Von dem Knesebeck  
 wcalmels@phi47.cl
 Zenodo synchronization update.
+## Citation
+
+If you use this repository in academic work, please cite:
+
+Calmels Von dem Knesebeck, Walter.
+*Voynich Semantic Analyzer v1.0.1*.
+Zenodo (2026).
+
+DOI: https://doi.org/10.5281/zenodo.20413096
