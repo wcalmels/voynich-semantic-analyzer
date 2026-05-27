@@ -615,7 +615,23 @@ Initial embedding-space experiments suggest contextual convergence between EVA-d
 - medieval gynecology
 - astrological medicine
 
+## Semantic Embedding Projection
+
+![Semantic Projection](../visualizations/semantic_embedding_projection.png)
+
+## EVA Frequency Distribution
+
+![EVA Frequency](../visualizations/eva_frequency_distribution.png)
+
+## Semantic Cluster Summary
+
+
+![Semantic Clusters](../visualizations/semantic_cluster_summary.png)
+
 Semantic clustering experiments demonstrated the emergence of recurrent contextual families within EVA token distributions.
+
+
+
 
 Transformer-based embeddings produced stronger contextual grouping stability compared to traditional frequency-only approaches.
 
