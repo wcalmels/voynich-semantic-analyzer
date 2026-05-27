@@ -646,6 +646,27 @@ Transformer-based embeddings produced stronger contextual grouping stability com
 
 The framework remains exploratory and does not establish deterministic linguistic equivalence.
 
+## Quantitative Embedding Metrics
+
+Real multidimensional sentence-transformer embeddings (384 dimensions) were generated using the `all-MiniLM-L6-v2` model.
+
+Experimental semantic similarity analysis produced the following observations:
+
+- strongest semantic coherence emerged between herbal and hydrotherapy fragments
+- astrological-medical fragments demonstrated consistent contextual proximity
+- contextual clustering remained semantically interpretable across medieval thematic domains
+
+Top semantic similarity pairs included:
+
+| Fragment Pair | Cosine Similarity |
+|---|---|
+| Seljuk Herbal Preparation Fragment ↔ Seljuk Herbal Fragment | 0.8699 |
+| Astrological Healing Notes ↔ Astrological Medicine Lunar Fragment | 0.7078 |
+| Persian Medical Treatise ↔ Persian Gynecological Note | 0.5513 |
+
+These results suggest the presence of non-random contextual semantic structure within the experimental corpus relationships.
+
+However, the framework remains exploratory and does not establish definitive linguistic translation.
 ---
 
 # 5. Limitations
