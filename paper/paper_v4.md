@@ -1,13 +1,23 @@
-# Computational Semantic Analysis of the Voynich Manuscript
+# Voynich Semantic Analyzer
 
-## An Integrated Anatolian-Islamic Medical Hypothesis and EVA-Based Semantic Resonance Framework
+## A Semantic, Astronomical and Botanical Analysis Framework for the Voynich Manuscript
 
-### Walter Calmels Von dem Knesebeck
+**Author:** Walter Calmels Von dem Knesebeck  
+**Affiliation:** Independent Researcher, Santiago, Chile  
+**Repository:** https://github.com/wcalmels/voynich-semantic-analyzer  
+**DOI:** https://doi.org/10.5281/zenodo.20413096  
+**Version:** v1.1.0  
+**Date:** May 27, 2026
 
-Independent Researcher
-Iquique, Chile
-[wcalmels@phi47.cl](mailto:wcalmels@phi47.cl)
-DOI: https://doi.org/10.5281/zenodo.20413096
+---
+
+## Abstract
+
+This paper presents an experimental computational framework for semantic and contextual exploration of the Voynich Manuscript through transformer embeddings, semantic clustering, medieval corpus comparison and interdisciplinary digital humanities methodologies.
+
+The proposed framework combines EVA processing, semantic embeddings, unsupervised clustering, medieval medical corpora and contextual visualization techniques to investigate potential relationships between symbolic structures and historical semantic domains.
+
+The project does not claim definitive decipherment of the Voynich Manuscript. Instead, it proposes a reproducible computational infrastructure for exploratory semantic analysis and contextual reconstruction.
 ---
 
 # Abstract
@@ -492,3 +502,195 @@ Vaswani, A. et al. (2017). Attention Is All You Need.
 Yale University Library Digital Collections. Beinecke MS 408.
 
 Zandbergen, R. The Voynich Manuscript.
+
+
+---
+
+# 1. Introduction
+
+The Voynich Manuscript remains one of the most studied undeciphered manuscripts in history. Traditional approaches have included cryptographic analysis, linguistic hypothesis testing, symbolic interpretation and statistical analysis.
+
+Recent advances in Natural Language Processing (NLP), semantic embeddings and transformer-based models provide new opportunities for contextual exploration of complex symbolic systems.
+
+This project proposes an experimental computational framework integrating:
+
+- EVA token processing
+- semantic embeddings
+- medieval corpus comparison
+- contextual clustering
+- transformer models
+- digital humanities methodologies
+
+The framework is designed as an exploratory semantic infrastructure rather than a definitive decipherment system.
+
+---
+
+# 2. Methodology
+
+## 2.1 EVA Processing
+
+The framework uses EVA (European Voynich Alphabet) transliterations as the initial symbolic representation layer.
+
+Processing stages include:
+
+- tokenization
+- bigram extraction
+- frequency analysis
+- lexical segmentation
+- contextual grouping
+
+---
+
+## 2.2 Semantic Embeddings
+
+Semantic embeddings are generated using transformer-based NLP models and vector-space similarity methods.
+
+The framework evaluates contextual relationships between EVA-derived structures and medieval corpora through:
+
+- cosine similarity
+- vector clustering
+- contextual proximity
+- semantic recurrence analysis
+
+---
+
+## 2.3 Medieval Corpus Infrastructure
+
+The experimental corpus includes:
+
+- Anatolian-Seljuk medical terminology
+- Persian medieval medical fragments
+- hydrotherapy references
+- herbal preparation terminology
+- astrological medicine concepts
+
+The corpus is used for exploratory semantic comparison rather than deterministic translation.
+
+---
+
+## 2.4 Clustering and Visualization
+
+Semantic vectors are projected into lower-dimensional spaces using PCA-based visualization techniques.
+
+The framework applies:
+
+- unsupervised clustering
+- semantic grouping
+- contextual similarity projection
+- embedding-space visualization
+
+to identify potential semantic families and contextual structures.
+
+---
+
+# 3. Experimental Infrastructure
+
+The framework was implemented using:
+
+- Python
+- Streamlit
+- OpenCV
+- Pandas
+- Scikit-learn
+- Sentence Transformers
+
+The repository includes:
+
+- reproducible scripts
+- datasets
+- semantic maps
+- clustering outputs
+- embedding visualizations
+- experimental papers
+
+---
+# 4. Experimental Results
+
+Initial embedding-space experiments suggest contextual convergence between EVA-derived symbolic structures and semantic regions associated with:
+
+- herbal medicine
+- hydrotherapy
+- medicinal preparation
+- bodily processes
+- medieval gynecology
+- astrological medicine
+
+Semantic clustering experiments demonstrated the emergence of recurrent contextual families within EVA token distributions.
+
+Transformer-based embeddings produced stronger contextual grouping stability compared to traditional frequency-only approaches.
+
+The framework remains exploratory and does not establish deterministic linguistic equivalence.
+
+---
+
+# 5. Limitations
+
+This framework has several important limitations:
+
+- absence of verified ground truth translations
+- incomplete medieval corpora
+- possible symbolic ambiguity
+- uncertainty regarding manuscript origin
+- contextual instability across folios
+- limitations of EVA transliteration itself
+
+Additionally, semantic similarity does not imply definitive linguistic translation.
+
+The framework should therefore be interpreted as an exploratory computational infrastructure rather than a decipherment system.
+
+---
+
+# 6. Scientific Position
+
+This project does NOT claim:
+
+- definitive decipherment
+- historical verification
+- complete translation
+- linguistic certainty
+
+Instead, the project proposes:
+
+- computational semantic exploration
+- contextual reconstruction methodologies
+- interdisciplinary manuscript analysis
+- experimental NLP infrastructure
+- semantic embedding analysis for historical corpora
+
+---
+
+# 7. Future Work
+
+Future development directions include:
+
+- transformer benchmarking
+- multimodal manuscript analysis
+- graph neural semantic representations
+- OCR improvement pipelines
+- medieval multilingual corpus expansion
+- symbolic recurrence modeling
+- interactive semantic visualization
+- astronomical and botanical alignment systems
+
+Potential future applications extend beyond the Voynich Manuscript into broader historical manuscript analysis frameworks.
+
+---
+
+# 8. Conclusion
+
+This paper presents an experimental semantic and contextual analysis framework for exploration of the Voynich Manuscript using modern NLP methodologies, semantic embeddings and interdisciplinary digital humanities approaches.
+
+The project demonstrates the feasibility of combining transformer embeddings, medieval corpora, contextual clustering and visualization methods into a reproducible research infrastructure.
+
+While the framework does not claim definitive decipherment, it establishes a computational foundation for future semantic exploration of complex historical symbolic systems.
+
+---
+
+# References
+
+1. Landini, G. (2001). Evidence of linguistic structure in the Voynich Manuscript.
+2. Montemurro, M. A., & Zanette, D. H. (2013). Keywords and co-occurrence patterns in the Voynich Manuscript.
+3. Takahashi, T. Voynich Manuscript EVA transcription.
+4. Vaswani, A. et al. (2017). Attention Is All You Need.
+5. Devlin, J. et al. (2018). BERT: Pre-training of Deep Bidirectional Transformers.
+6. Jurafsky, D., & Martin, J. Speech and Language Processing.
