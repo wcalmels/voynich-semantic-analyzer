@@ -213,6 +213,24 @@ Semantic embedding projections and PCA-based visualization revealed partially co
 ![Semantic Clusters](../visualizations/semantic_cluster_summary.png)
 
 Semantic clustering experiments demonstrated the emergence of recurrent contextual families within EVA token distributions.
+### Preliminary Randomized Baseline
+
+To evaluate whether the observed semantic relationships could emerge from randomized symbolic organization, a preliminary baseline experiment was conducted.
+
+Semantic keyword structures were randomly shuffled while preserving approximate token distributions. Embeddings were regenerated using the same sentence-transformer model and compared against the original corpus.
+
+| Metric             | Original | Randomized |
+| ------------------ | -------: | ---------: |
+| Mean Similarity    |   0.4077 |     0.3992 |
+| Standard Deviation |   0.1287 |     0.1315 |
+| Maximum Similarity |   0.8699 |     0.8785 |
+| Minimum Similarity |   0.1890 |     0.1943 |
+
+The original corpus exhibited a slightly higher mean similarity (+0.0085) relative to the randomized baseline.
+
+Although the effect size remains modest, the result suggests that the original corpus preserves a small degree of contextual organization beyond the shuffled control condition.
+
+These findings should be interpreted as preliminary. Larger control corpora, permutation testing and bootstrap-based confidence intervals will be required before statistical significance can be assessed.
 
 ---
 
