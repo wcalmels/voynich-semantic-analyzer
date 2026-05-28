@@ -147,7 +147,7 @@ The framework integrates symbolic preprocessing, semantic embeddings, contextual
 
 ### Figure 1. Framework Architecture
 
-![Framework Architecture](../visualizations/framework_architecture.png)
+![Framework Architecture](../visualizations/framework_architecture_v2.png)
 
 The architecture combines image processing, EVA token analysis, semantic embeddings and contextual similarity analysis.
 
@@ -276,7 +276,6 @@ Future work should focus on:
 
 Potential future applications extend beyond the Voynich Manuscript into broader historical symbolic-system analysis.
 
----
 
 # 15. Conclusion
 
