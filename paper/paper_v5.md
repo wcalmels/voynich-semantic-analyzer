@@ -213,6 +213,7 @@ Semantic embedding projections and PCA-based visualization revealed partially co
 ![Semantic Clusters](../visualizations/semantic_cluster_summary.png)
 
 Semantic clustering experiments demonstrated the emergence of recurrent contextual families within EVA token distributions.
+
 ### Preliminary Randomized Baseline
 
 To evaluate whether the observed semantic relationships could emerge from randomized symbolic organization, a preliminary baseline experiment was conducted.

@@ -1,0 +1,46 @@
+﻿
+src\app_voynich.py:224:        caption="Mapa PCA 2D de embeddings semánticos",
+src\app_voynich.py:241:if os.path.exists("resumen_clusters_semanticos.csv"):
+src\app_voynich.py:243:    df_clusters_resumen = pd.read_csv("resumen_clusters_semanticos.csv")
+src\app_voynich.py:249:    st.warning("No se encontró resumen_clusters_semanticos.csv")
+src\clustering_glifos.py:4:from sklearn.cluster import KMeans
+src\clustering_glifos.py:38:# KMeans
+src\clustering_glifos.py:39:kmeans = KMeans(
+src\clustering_glifos.py:40:    n_clusters=k,
+src\clustering_glifos.py:41:    random_state=42,
+src\clustering_glifos.py:42:    n_init=10
+src\clustering_glifos.py:45:labels = kmeans.fit_predict(X)
+src\cluster_semantico_automatico.py:2:from sentence_transformers import SentenceTransformer
+src\cluster_semantico_automatico.py:3:from sklearn.cluster import KMeans
+src\cluster_semantico_automatico.py:9:N_CLUSTERS = 4
+src\cluster_semantico_automatico.py:29:modelo = SentenceTransformer("all-MiniLM-L6-v2")
+src\cluster_semantico_automatico.py:35:kmeans = KMeans(
+src\cluster_semantico_automatico.py:36:    n_clusters=N_CLUSTERS,
+src\cluster_semantico_automatico.py:37:    random_state=42,
+src\cluster_semantico_automatico.py:38:    n_init=10
+src\cluster_semantico_automatico.py:41:clusters = kmeans.fit_predict(embeddings)
+src\cluster_semantico_automatico.py:66:df_resumen.to_csv("resumen_clusters_semanticos.csv", index=False, 
+encoding="utf-8")
+src\cluster_semantico_automatico.py:70:print("Archivo creado: resumen_clusters_semanticos.csv")
+src\embeddings_transformers_eva.py:2:from sentence_transformers import SentenceTransformer
+src\embeddings_transformers_eva.py:11:modelo = SentenceTransformer('all-MiniLM-L6-v2')
+src\generar_csv_completo.py:87:random.seed(42)
+src\generate_real_embeddings.py:1:from sentence_transformers import SentenceTransformer
+src\generate_real_embeddings.py:13:model = SentenceTransformer('all-MiniLM-L6-v2')
+src\generate_research_figures.py:66:    file_path = DATASETS_DIR / "resumen_clusters_semanticos.csv"
+src\visualizar_clusters.py:7:from sklearn.cluster import KMeans
+src\visualizar_clusters.py:32:kmeans = KMeans(
+src\visualizar_clusters.py:33:	n_clusters=k,
+src\visualizar_clusters.py:34:	random_state=42,
+src\visualizar_clusters.py:35:	n_init=10
+src\visualizar_clusters.py:38:labels = kmeans.fit_predict(X)
+src\visualizar_embeddings_2d.py:2:from sentence_transformers import SentenceTransformer
+src\visualizar_embeddings_2d.py:3:from sklearn.decomposition import PCA
+src\visualizar_embeddings_2d.py:13:modelo = SentenceTransformer("all-MiniLM-L6-v2")
+src\visualizar_embeddings_2d.py:44:print("Reduciendo a 2D con PCA...")
+src\visualizar_embeddings_2d.py:45:pca = PCA(n_components=2)
+src\visualizar_embeddings_2d.py:46:coords = pca.fit_transform(embeddings)
+src\visualizar_embeddings_2d.py:74:plt.xlabel("Componente PCA 1")
+src\visualizar_embeddings_2d.py:75:plt.ylabel("Componente PCA 2")
+
+
