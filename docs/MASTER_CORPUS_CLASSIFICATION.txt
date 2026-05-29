@@ -9,3 +9,17 @@ Notes:
 Blue-flowered herbal specimen with lobed leaves and
 multiple tuberous roots. Consistent with medicinal
 plant documentation section.
+f96r -> HERBAL_B
+
+Confidence: 83
+
+ODS: 69
+ICD: 67
+
+Notes:
+Large solitary flower with deeply divided leaves and
+extensive root system. Strong continuity with late
+Herbal-B medicinal plant sequence.
+
+Classification remains structural.
+No H47 resonance analysis applied.
