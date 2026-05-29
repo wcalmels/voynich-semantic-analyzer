@@ -23,3 +23,19 @@ Herbal-B medicinal plant sequence.
 
 Classification remains structural.
 No H47 resonance analysis applied.
+
+f96v -> HERBAL_B
+
+Confidence: 82
+
+ODS: 67
+ICD: 65
+
+Notes:
+Herbal specimen with triangular leaves and clustered
+red berries. Root remains visible and medicinally
+significant. Continues Herbal-B sequence with greater
+emphasis on fruiting structures.
+
+Classification remains structural.
+No H47 resonance analysis applied.
