@@ -39,3 +39,21 @@ emphasis on fruiting structures.
 
 Classification remains structural.
 No H47 resonance analysis applied.
+
+f99r -> HERBAL_B / PHARMACEUTICAL_INTERFACE
+
+Confidence: 88
+
+ODS: 76
+ICD: 81
+
+Notes:
+Multiple medicinal roots displayed alongside
+pharmaceutical containers. Folio appears to compare
+root morphologies and preparation stages.
+
+Represents a transition zone between herbal
+identification and pharmaceutical processing.
+
+Classification remains structural.
+No H47 resonance analysis applied.
