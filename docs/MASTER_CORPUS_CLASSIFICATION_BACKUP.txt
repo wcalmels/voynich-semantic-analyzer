@@ -1,0 +1,227 @@
+VOYNICH CORPUS CLASSIFICATION MASTER LOG
+
+Project: Divrigi Voynich Analyzer
+Research Phase: Corpus Structural Classification
+Researcher: Walter Calmels
+
+==================================================
+METHODOLOGICAL NOTE
+===================
+
+Current work corresponds exclusively to:
+
+* Visual corpus classification
+* Structural analysis
+* Section identification
+* Cluster construction
+* ODS ranking
+* ICD ranking
+
+H47 resonance analysis has NOT yet been applied.
+
+The purpose of the current phase is to construct a
+clean thematic corpus before resonance processing.
+
+==================================================
+CORPUS STRUCTURE
+================
+
+BALNEOLOGICAL / BIOLOGICAL-HYDRAULIC
+
+f75r
+f75v
+f76r
+f76v
+f77r
+f77v
+f78r
+f78v
+f79r
+f79v
+f80v
+f81r
+f81v
+f82r
+f82v
+f83r
+f83v
+f84r
+f84v
+
+Status:
+Confirmed
+
+---
+
+COSMOLOGICAL
+
+f85part86
+f86r
+
+Status:
+Confirmed
+
+---
+
+HERBAL CLUSTER A
+
+f87r
+f87v
+
+Status:
+Confirmed
+
+---
+
+PHARMACEUTICAL
+
+f88r
+f88v89r
+f89vpart
+f89vpart1
+
+Status:
+Confirmed
+
+Characteristics:
+
+* Apothecary vessels
+* Ingredient catalogs
+* Isolated roots
+* Leaves
+* Flowers
+* Materia medica organization
+
+---
+
+HERBAL CLUSTER B
+
+f90r
+f93r
+f93v
+f94r
+f94v95r
+f95v
+f95v1
+f96r
+f96v
+
+Status:
+Confirmed
+
+Characteristics:
+
+* Complete botanical specimens
+* Root systems
+* Flowers
+* Fruits
+* Tubers
+* Rhizomes
+* Medicinal morphology
+
+---
+
+HERBAL_B / PHARMACEUTICAL_INTERFACE
+
+f99r
+
+Status:
+Preliminary
+
+Characteristics:
+
+* Pharmaceutical vessels
+* Comparative roots
+* Preparation-oriented layout
+* Herbal-pharmaceutical transition
+
+==================================================
+ODS / ICD SUMMARY
+=================
+
+ODS Average: 64.89
+ICD Average: 61.58
+
+Highest ICD Scores Observed:
+
+f78r : 74
+f82v : 74
+f82r : 73
+f83v : 73
+f77v : 72
+f83r : 72
+f80v : 71
+f79r : 70
+
+==================================================
+OBSERVATIONS
+============
+
+Observation 01
+
+The manuscript appears to contain thematic sections
+rather than random illustrations.
+
+---
+
+Observation 02
+
+A recurring sequence appears:
+
+Biological-Hydraulic
+↓
+Cosmological
+↓
+Herbal
+↓
+Pharmaceutical
+↓
+Herbal
+
+---
+
+Observation 03
+
+The pharmaceutical folios emphasize:
+
+* roots
+* leaves
+* flowers
+* medicinal ingredients
+* preparation structures
+
+rather than complete plants.
+
+---
+
+Observation 04
+
+The herbal folios emphasize:
+
+* complete plants
+* roots
+* flowers
+* fruits
+* botanical morphology
+
+---
+
+Observation 05
+
+The transition represented by f99r may indicate a
+connection between plant identification and medicinal
+preparation.
+
+==================================================
+CURRENT STATUS
+==============
+
+Corpus classification in progress.
+
+H47 resonance layer:
+Pending.
+
+Next folios:
+f99v
+f100r
+...
